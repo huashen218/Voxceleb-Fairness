@@ -1,0 +1,1011 @@
+ === generating all pairs === 
+  0%|          | 0/500 [00:00<?, ?it/s]len(all_positive_trials) 500
+len(all_positive_trials) 1000
+len(all_positive_trials) 1500
+len(all_positive_trials) 2000
+len(all_positive_trials) 2500
+len(all_positive_trials) 3000
+len(all_positive_trials) 3500
+  1%|▏         | 7/500 [00:00<00:07, 69.65it/s]len(all_positive_trials) 4000
+len(all_positive_trials) 4500
+len(all_positive_trials) 5000
+len(all_positive_trials) 5500
+len(all_positive_trials) 6000
+len(all_positive_trials) 6500
+len(all_positive_trials) 7000
+  3%|▎         | 14/500 [00:00<00:12, 37.80it/s]len(all_positive_trials) 7500
+len(all_positive_trials) 8000
+len(all_positive_trials) 8500
+len(all_positive_trials) 9000
+len(all_positive_trials) 9500
+  4%|▍         | 19/500 [00:00<00:18, 25.80it/s]len(all_positive_trials) 10000
+len(all_positive_trials) 10500
+len(all_positive_trials) 11000
+len(all_positive_trials) 11500
+  5%|▍         | 23/500 [00:00<00:20, 22.79it/s]len(all_positive_trials) 12000
+len(all_positive_trials) 12500
+len(all_positive_trials) 13000
+  5%|▌         | 26/500 [00:01<00:31, 14.94it/s]len(all_positive_trials) 13500
+len(all_positive_trials) 14000
+  6%|▌         | 28/500 [00:01<00:38, 12.35it/s]len(all_positive_trials) 14500
+len(all_positive_trials) 15000
+  6%|▌         | 30/500 [00:01<00:37, 12.62it/s]len(all_positive_trials) 15500
+len(all_positive_trials) 16000
+  6%|▋         | 32/500 [00:02<00:49,  9.41it/s]len(all_positive_trials) 16500
+len(all_positive_trials) 17000
+  7%|▋         | 34/500 [00:02<00:50,  9.16it/s]len(all_positive_trials) 17500
+len(all_positive_trials) 18000
+  7%|▋         | 36/500 [00:02<00:53,  8.67it/s]len(all_positive_trials) 18500
+len(all_positive_trials) 19000
+  8%|▊         | 38/500 [00:02<00:52,  8.80it/s]len(all_positive_trials) 19500
+  8%|▊         | 39/500 [00:02<00:54,  8.43it/s]len(all_positive_trials) 20000
+len(all_positive_trials) 20500
+  8%|▊         | 41/500 [00:03<01:17,  5.94it/s]len(all_positive_trials) 21000
+len(all_positive_trials) 21500
+  9%|▊         | 43/500 [00:03<01:02,  7.29it/s]len(all_positive_trials) 22000
+len(all_positive_trials) 22500
+  9%|▉         | 45/500 [00:03<01:01,  7.37it/s]len(all_positive_trials) 23000
+  9%|▉         | 46/500 [00:04<01:03,  7.14it/s]len(all_positive_trials) 23500
+  9%|▉         | 47/500 [00:04<01:22,  5.49it/s]len(all_positive_trials) 24000
+ 10%|▉         | 48/500 [00:04<01:32,  4.89it/s]len(all_positive_trials) 24500
+ 10%|▉         | 49/500 [00:04<01:30,  5.00it/s]len(all_positive_trials) 25000
+ 10%|█         | 50/500 [00:05<01:56,  3.86it/s]len(all_positive_trials) 25500
+ 10%|█         | 51/500 [00:05<02:12,  3.40it/s]len(all_positive_trials) 26000
+ 10%|█         | 52/500 [00:05<01:50,  4.06it/s]len(all_positive_trials) 26500
+len(all_positive_trials) 27000
+ 11%|█         | 54/500 [00:06<01:28,  5.02it/s]len(all_positive_trials) 27500
+len(all_positive_trials) 28000
+ 11%|█         | 56/500 [00:06<01:22,  5.37it/s]len(all_positive_trials) 28500
+ 11%|█▏        | 57/500 [00:06<01:23,  5.29it/s]len(all_positive_trials) 29000
+ 12%|█▏        | 58/500 [00:07<01:51,  3.97it/s]len(all_positive_trials) 29500
+len(all_positive_trials) 30000
+ 12%|█▏        | 60/500 [00:07<01:24,  5.23it/s]len(all_positive_trials) 30500
+ 12%|█▏        | 61/500 [00:07<02:00,  3.63it/s]len(all_positive_trials) 31000
+len(all_positive_trials) 31500
+ 13%|█▎        | 63/500 [00:08<01:34,  4.63it/s]len(all_positive_trials) 32000
+ 13%|█▎        | 64/500 [00:08<01:28,  4.92it/s]len(all_positive_trials) 32500
+ 13%|█▎        | 65/500 [00:08<01:43,  4.21it/s]len(all_positive_trials) 33000
+ 13%|█▎        | 66/500 [00:09<01:59,  3.63it/s]len(all_positive_trials) 33500
+ 13%|█▎        | 67/500 [00:09<03:03,  2.36it/s]len(all_positive_trials) 34000
+ 14%|█▎        | 68/500 [00:10<02:50,  2.53it/s]len(all_positive_trials) 34500
+ 14%|█▍        | 69/500 [00:10<02:34,  2.78it/s]len(all_positive_trials) 35000
+ 14%|█▍        | 70/500 [00:10<02:14,  3.20it/s]len(all_positive_trials) 35500
+ 14%|█▍        | 71/500 [00:10<01:50,  3.89it/s]len(all_positive_trials) 36000
+ 14%|█▍        | 72/500 [00:11<02:06,  3.39it/s]len(all_positive_trials) 36500
+ 15%|█▍        | 73/500 [00:11<03:00,  2.36it/s]len(all_positive_trials) 37000
+ 15%|█▍        | 74/500 [00:12<03:07,  2.27it/s]len(all_positive_trials) 37500
+ 15%|█▌        | 75/500 [00:12<03:31,  2.01it/s]len(all_positive_trials) 38000
+ 15%|█▌        | 76/500 [00:13<03:13,  2.19it/s]len(all_positive_trials) 38500
+ 15%|█▌        | 77/500 [00:13<02:49,  2.49it/s]len(all_positive_trials) 39000
+ 16%|█▌        | 78/500 [00:13<02:24,  2.91it/s]len(all_positive_trials) 39500
+ 16%|█▌        | 79/500 [00:14<03:18,  2.12it/s]len(all_positive_trials) 40000
+ 16%|█▌        | 80/500 [00:15<04:27,  1.57it/s]len(all_positive_trials) 40500
+ 16%|█▌        | 81/500 [00:16<04:39,  1.50it/s]len(all_positive_trials) 41000
+ 16%|█▋        | 82/500 [00:16<03:41,  1.89it/s]len(all_positive_trials) 41500
+ 17%|█▋        | 83/500 [00:16<02:52,  2.42it/s]len(all_positive_trials) 42000
+ 17%|█▋        | 84/500 [00:17<03:10,  2.19it/s]len(all_positive_trials) 42500
+ 17%|█▋        | 85/500 [00:17<02:28,  2.79it/s]len(all_positive_trials) 43000
+ 17%|█▋        | 86/500 [00:17<02:24,  2.86it/s]len(all_positive_trials) 43500
+ 17%|█▋        | 87/500 [00:17<01:53,  3.63it/s]len(all_positive_trials) 44000
+ 18%|█▊        | 88/500 [00:18<02:00,  3.42it/s]len(all_positive_trials) 44500
+ 18%|█▊        | 89/500 [00:18<02:55,  2.34it/s]len(all_positive_trials) 45000
+ 18%|█▊        | 90/500 [00:19<02:47,  2.45it/s]len(all_positive_trials) 45500
+ 18%|█▊        | 91/500 [00:19<02:22,  2.87it/s]len(all_positive_trials) 46000
+ 18%|█▊        | 92/500 [00:19<02:30,  2.71it/s]len(all_positive_trials) 46500
+ 19%|█▊        | 93/500 [00:20<02:36,  2.59it/s]len(all_positive_trials) 46825
+len(all_positive_trials) 47325
+ 19%|█▉        | 95/500 [00:21<02:32,  2.66it/s]len(all_positive_trials) 47825
+ 19%|█▉        | 96/500 [00:21<02:51,  2.36it/s]len(all_positive_trials) 48125
+len(all_positive_trials) 48625
+ 20%|█▉        | 98/500 [00:22<03:18,  2.02it/s]len(all_positive_trials) 49125
+ 20%|█▉        | 99/500 [00:23<02:56,  2.27it/s]len(all_positive_trials) 49625
+ 20%|██        | 100/500 [00:23<02:44,  2.44it/s]len(all_positive_trials) 50125
+ 20%|██        | 101/500 [00:24<03:13,  2.07it/s]len(all_positive_trials) 50625
+ 20%|██        | 102/500 [00:24<03:14,  2.05it/s]len(all_positive_trials) 51125
+ 21%|██        | 103/500 [00:25<03:30,  1.88it/s]len(all_positive_trials) 51625
+ 21%|██        | 104/500 [00:26<04:51,  1.36it/s]len(all_positive_trials) 52125
+ 21%|██        | 105/500 [00:26<03:48,  1.73it/s]len(all_positive_trials) 52625
+ 21%|██        | 106/500 [00:26<02:56,  2.23it/s]len(all_positive_trials) 53125
+ 21%|██▏       | 107/500 [00:27<03:03,  2.15it/s]len(all_positive_trials) 53335
+len(all_positive_trials) 53835
+ 22%|██▏       | 109/500 [00:28<03:29,  1.86it/s]len(all_positive_trials) 54335
+ 22%|██▏       | 110/500 [00:28<02:50,  2.29it/s]len(all_positive_trials) 54835
+ 22%|██▏       | 111/500 [00:29<02:57,  2.19it/s]len(all_positive_trials) 55335
+ 22%|██▏       | 112/500 [00:29<02:28,  2.61it/s]len(all_positive_trials) 55835
+ 23%|██▎       | 113/500 [00:30<04:37,  1.40it/s]len(all_positive_trials) 56335
+ 23%|██▎       | 114/500 [00:31<03:55,  1.64it/s]len(all_positive_trials) 56835
+ 23%|██▎       | 115/500 [00:31<03:30,  1.83it/s]len(all_positive_trials) 57335
+ 23%|██▎       | 116/500 [00:32<03:08,  2.04it/s]len(all_positive_trials) 57835
+ 23%|██▎       | 117/500 [00:33<04:51,  1.32it/s]len(all_positive_trials) 58335
+ 24%|██▎       | 118/500 [00:34<04:42,  1.35it/s]len(all_positive_trials) 58835
+ 24%|██▍       | 119/500 [00:34<03:43,  1.71it/s]len(all_positive_trials) 59335
+ 24%|██▍       | 120/500 [00:34<02:58,  2.13it/s]len(all_positive_trials) 59835
+ 24%|██▍       | 121/500 [00:35<03:58,  1.59it/s]len(all_positive_trials) 60335
+ 24%|██▍       | 122/500 [00:35<03:09,  1.99it/s]len(all_positive_trials) 60835
+ 25%|██▍       | 123/500 [00:37<05:29,  1.15it/s]len(all_positive_trials) 61335
+ 25%|██▍       | 124/500 [00:38<04:54,  1.28it/s]len(all_positive_trials) 61835
+ 25%|██▌       | 125/500 [00:38<04:31,  1.38it/s]len(all_positive_trials) 62335
+ 25%|██▌       | 126/500 [00:39<04:20,  1.44it/s]len(all_positive_trials) 62835
+ 25%|██▌       | 127/500 [00:40<05:11,  1.20it/s]len(all_positive_trials) 63335
+ 26%|██▌       | 128/500 [00:41<05:14,  1.18it/s]len(all_positive_trials) 63545
+len(all_positive_trials) 64045
+ 26%|██▌       | 130/500 [00:43<05:29,  1.12it/s]len(all_positive_trials) 64545
+ 26%|██▌       | 131/500 [00:43<05:15,  1.17it/s]len(all_positive_trials) 65045
+ 26%|██▋       | 132/500 [00:44<04:30,  1.36it/s]len(all_positive_trials) 65545
+ 27%|██▋       | 133/500 [00:44<03:44,  1.63it/s]len(all_positive_trials) 66045
+ 27%|██▋       | 134/500 [00:45<04:13,  1.44it/s]len(all_positive_trials) 66396
+ 27%|██▋       | 135/500 [00:45<03:14,  1.87it/s]len(all_positive_trials) 66896
+ 27%|██▋       | 136/500 [00:46<03:52,  1.57it/s]len(all_positive_trials) 67396
+ 27%|██▋       | 137/500 [00:47<04:44,  1.28it/s]len(all_positive_trials) 67896
+ 28%|██▊       | 138/500 [00:48<04:09,  1.45it/s]len(all_positive_trials) 68396
+ 28%|██▊       | 139/500 [00:49<05:38,  1.07it/s]len(all_positive_trials) 68649
+ 28%|██▊       | 140/500 [00:49<04:18,  1.39it/s]len(all_positive_trials) 69149
+ 28%|██▊       | 141/500 [00:50<03:39,  1.64it/s]len(all_positive_trials) 69649
+ 28%|██▊       | 142/500 [00:51<04:41,  1.27it/s]len(all_positive_trials) 70149
+ 29%|██▊       | 143/500 [00:51<04:08,  1.44it/s]len(all_positive_trials) 70649
+ 29%|██▉       | 144/500 [00:52<03:15,  1.82it/s]len(all_positive_trials) 71149
+ 29%|██▉       | 145/500 [00:52<02:49,  2.10it/s]len(all_positive_trials) 71500
+ 29%|██▉       | 146/500 [00:52<02:16,  2.59it/s]len(all_positive_trials) 72000
+ 29%|██▉       | 147/500 [00:53<02:59,  1.97it/s]len(all_positive_trials) 72500
+ 30%|██▉       | 148/500 [00:53<02:51,  2.06it/s]len(all_positive_trials) 73000
+ 30%|██▉       | 149/500 [00:54<02:27,  2.38it/s]len(all_positive_trials) 73378
+ 30%|███       | 150/500 [00:54<01:59,  2.92it/s]len(all_positive_trials) 73878
+ 30%|███       | 151/500 [00:54<02:02,  2.85it/s]len(all_positive_trials) 74378
+ 30%|███       | 152/500 [00:55<02:47,  2.08it/s]len(all_positive_trials) 74878
+ 31%|███       | 153/500 [00:56<03:30,  1.65it/s]len(all_positive_trials) 75378
+ 31%|███       | 154/500 [00:56<03:13,  1.79it/s]len(all_positive_trials) 75878
+ 31%|███       | 155/500 [00:56<02:37,  2.19it/s]len(all_positive_trials) 76378
+ 31%|███       | 156/500 [00:58<03:46,  1.52it/s]len(all_positive_trials) 76878
+ 31%|███▏      | 157/500 [00:58<04:08,  1.38it/s]len(all_positive_trials) 77378
+ 32%|███▏      | 158/500 [00:59<03:32,  1.61it/s]len(all_positive_trials) 77878
+ 32%|███▏      | 159/500 [00:59<02:57,  1.92it/s]len(all_positive_trials) 78378
+ 32%|███▏      | 160/500 [01:00<02:42,  2.10it/s]len(all_positive_trials) 78878
+ 32%|███▏      | 161/500 [01:00<03:21,  1.68it/s]len(all_positive_trials) 79378
+ 32%|███▏      | 162/500 [01:01<03:01,  1.87it/s]len(all_positive_trials) 79878
+ 33%|███▎      | 163/500 [01:02<04:02,  1.39it/s]len(all_positive_trials) 80378
+ 33%|███▎      | 164/500 [01:03<04:15,  1.32it/s]len(all_positive_trials) 80878
+ 33%|███▎      | 165/500 [01:03<04:00,  1.40it/s]len(all_positive_trials) 81378
+ 33%|███▎      | 166/500 [01:04<03:25,  1.63it/s]len(all_positive_trials) 81878
+ 33%|███▎      | 167/500 [01:04<03:33,  1.56it/s]len(all_positive_trials) 82378
+ 34%|███▎      | 168/500 [01:05<03:33,  1.56it/s]len(all_positive_trials) 82878
+ 34%|███▍      | 169/500 [01:07<05:18,  1.04it/s]len(all_positive_trials) 83378
+ 34%|███▍      | 170/500 [01:09<07:20,  1.34s/it]len(all_positive_trials) 83878
+ 34%|███▍      | 171/500 [01:10<06:31,  1.19s/it]len(all_positive_trials) 84378
+ 34%|███▍      | 172/500 [01:10<05:19,  1.03it/s]len(all_positive_trials) 84878
+ 35%|███▍      | 173/500 [01:11<05:09,  1.05it/s]len(all_positive_trials) 85378
+ 35%|███▍      | 174/500 [01:12<04:19,  1.26it/s]len(all_positive_trials) 85878
+ 35%|███▌      | 175/500 [01:14<06:45,  1.25s/it]len(all_positive_trials) 86378
+ 35%|███▌      | 176/500 [01:14<05:17,  1.02it/s]len(all_positive_trials) 86878
+ 35%|███▌      | 177/500 [01:15<04:51,  1.11it/s]len(all_positive_trials) 87378
+ 36%|███▌      | 178/500 [01:16<04:24,  1.22it/s]len(all_positive_trials) 87878
+ 36%|███▌      | 179/500 [01:17<04:44,  1.13it/s]len(all_positive_trials) 88109
+ 36%|███▌      | 180/500 [01:17<03:32,  1.50it/s]len(all_positive_trials) 88609
+ 36%|███▌      | 181/500 [01:18<03:47,  1.40it/s]len(all_positive_trials) 89109
+ 36%|███▋      | 182/500 [01:18<03:35,  1.47it/s]len(all_positive_trials) 89609
+ 37%|███▋      | 183/500 [01:19<03:10,  1.67it/s]len(all_positive_trials) 90109
+ 37%|███▋      | 184/500 [01:20<04:27,  1.18it/s]len(all_positive_trials) 90609
+ 37%|███▋      | 185/500 [01:21<03:47,  1.38it/s]len(all_positive_trials) 91044
+ 37%|███▋      | 186/500 [01:21<02:56,  1.78it/s]len(all_positive_trials) 91544
+ 37%|███▋      | 187/500 [01:23<05:11,  1.00it/s]len(all_positive_trials) 92044
+ 38%|███▊      | 188/500 [01:23<04:35,  1.13it/s]len(all_positive_trials) 92275
+ 38%|███▊      | 189/500 [01:24<03:24,  1.52it/s]len(all_positive_trials) 92775
+ 38%|███▊      | 190/500 [01:25<05:23,  1.04s/it]len(all_positive_trials) 93275
+ 38%|███▊      | 191/500 [01:26<04:06,  1.25it/s]len(all_positive_trials) 93775
+ 38%|███▊      | 192/500 [01:28<06:39,  1.30s/it]len(all_positive_trials) 94275
+ 39%|███▊      | 193/500 [01:28<05:02,  1.01it/s]len(all_positive_trials) 94775
+ 39%|███▉      | 194/500 [01:30<05:50,  1.14s/it]len(all_positive_trials) 95275
+ 39%|███▉      | 195/500 [01:30<04:45,  1.07it/s]len(all_positive_trials) 95775
+ 39%|███▉      | 196/500 [01:31<04:03,  1.25it/s]len(all_positive_trials) 96275
+ 39%|███▉      | 197/500 [01:32<04:11,  1.21it/s]len(all_positive_trials) 96775
+ 40%|███▉      | 198/500 [01:32<03:23,  1.49it/s]len(all_positive_trials) 97275
+ 40%|███▉      | 199/500 [01:34<05:06,  1.02s/it]len(all_positive_trials) 97775
+ 40%|████      | 200/500 [01:35<04:41,  1.07it/s]len(all_positive_trials) 98275
+ 40%|████      | 201/500 [01:35<03:49,  1.30it/s]len(all_positive_trials) 98775
+ 40%|████      | 202/500 [01:37<05:57,  1.20s/it]len(all_positive_trials) 99006
+ 41%|████      | 203/500 [01:37<04:23,  1.13it/s]len(all_positive_trials) 99506
+ 41%|████      | 204/500 [01:39<05:20,  1.08s/it]len(all_positive_trials) 100006
+ 41%|████      | 205/500 [01:40<05:40,  1.15s/it]len(all_positive_trials) 100506
+ 41%|████      | 206/500 [01:41<04:29,  1.09it/s]len(all_positive_trials) 101006
+ 41%|████▏     | 207/500 [01:43<06:40,  1.37s/it]len(all_positive_trials) 101216
+ 42%|████▏     | 208/500 [01:43<04:52,  1.00s/it]len(all_positive_trials) 101716
+ 42%|████▏     | 209/500 [01:44<05:09,  1.06s/it]len(all_positive_trials) 102216
+ 42%|████▏     | 210/500 [01:45<04:24,  1.10it/s]len(all_positive_trials) 102716
+ 42%|████▏     | 211/500 [01:45<03:51,  1.25it/s]len(all_positive_trials) 103216
+ 42%|████▏     | 212/500 [01:46<03:45,  1.28it/s]len(all_positive_trials) 103716
+ 43%|████▎     | 213/500 [01:48<04:59,  1.04s/it]len(all_positive_trials) 104216
+ 43%|████▎     | 214/500 [01:50<06:24,  1.34s/it]len(all_positive_trials) 104716
+ 43%|████▎     | 215/500 [01:50<04:53,  1.03s/it]len(all_positive_trials) 105216
+ 43%|████▎     | 216/500 [01:52<05:55,  1.25s/it]len(all_positive_trials) 105716
+ 43%|████▎     | 217/500 [01:55<07:50,  1.66s/it]len(all_positive_trials) 106216
+ 44%|████▎     | 218/500 [01:57<08:12,  1.74s/it]len(all_positive_trials) 106716
+ 44%|████▍     | 219/500 [01:57<06:31,  1.39s/it]len(all_positive_trials) 107216
+ 44%|████▍     | 220/500 [01:57<04:55,  1.05s/it]len(all_positive_trials) 107716
+ 44%|████▍     | 221/500 [01:58<04:16,  1.09it/s]len(all_positive_trials) 108216
+ 44%|████▍     | 222/500 [01:59<04:47,  1.03s/it]len(all_positive_trials) 108716
+ 45%|████▍     | 223/500 [02:02<07:37,  1.65s/it]len(all_positive_trials) 109216
+ 45%|████▍     | 224/500 [02:04<07:03,  1.53s/it]len(all_positive_trials) 109716
+ 45%|████▌     | 225/500 [02:05<06:48,  1.49s/it]len(all_positive_trials) 110216
+ 45%|████▌     | 226/500 [02:06<05:24,  1.19s/it]len(all_positive_trials) 110716
+ 45%|████▌     | 227/500 [02:07<06:17,  1.38s/it]len(all_positive_trials) 111216
+ 46%|████▌     | 228/500 [02:09<06:10,  1.36s/it]len(all_positive_trials) 111469
+ 46%|████▌     | 229/500 [02:09<04:34,  1.01s/it]len(all_positive_trials) 111969
+ 46%|████▌     | 230/500 [02:10<05:08,  1.14s/it]len(all_positive_trials) 112469
+ 46%|████▌     | 231/500 [02:11<04:48,  1.07s/it]len(all_positive_trials) 112904
+ 46%|████▋     | 232/500 [02:11<03:43,  1.20it/s]len(all_positive_trials) 113404
+ 47%|████▋     | 233/500 [02:14<06:14,  1.40s/it]len(all_positive_trials) 113904
+ 47%|████▋     | 234/500 [02:15<04:46,  1.08s/it]len(all_positive_trials) 114404
+ 47%|████▋     | 235/500 [02:15<04:07,  1.07it/s]len(all_positive_trials) 114904
+ 47%|████▋     | 236/500 [02:17<04:48,  1.09s/it]len(all_positive_trials) 115404
+ 47%|████▋     | 237/500 [02:18<04:42,  1.07s/it]len(all_positive_trials) 115904
+ 48%|████▊     | 238/500 [02:19<05:27,  1.25s/it]len(all_positive_trials) 116404
+ 48%|████▊     | 239/500 [02:20<04:40,  1.07s/it]len(all_positive_trials) 116904
+ 48%|████▊     | 240/500 [02:20<03:53,  1.11it/s]len(all_positive_trials) 117404
+ 48%|████▊     | 241/500 [02:22<04:43,  1.09s/it]len(all_positive_trials) 117904
+ 48%|████▊     | 242/500 [02:23<04:19,  1.00s/it]len(all_positive_trials) 118404
+ 49%|████▊     | 243/500 [02:23<03:24,  1.25it/s]len(all_positive_trials) 118904
+ 49%|████▉     | 244/500 [02:24<03:15,  1.31it/s]len(all_positive_trials) 119404
+ 49%|████▉     | 245/500 [02:27<05:45,  1.36s/it]len(all_positive_trials) 119904
+ 49%|████▉     | 246/500 [02:27<04:35,  1.08s/it]len(all_positive_trials) 120404
+ 49%|████▉     | 247/500 [02:30<06:34,  1.56s/it]len(all_positive_trials) 120904
+ 50%|████▉     | 248/500 [02:30<05:21,  1.28s/it]len(all_positive_trials) 121404
+ 50%|████▉     | 249/500 [02:33<07:40,  1.84s/it]len(all_positive_trials) 121904
+ 50%|█████     | 250/500 [02:34<05:53,  1.41s/it]len(all_positive_trials) 122404
+ 50%|█████     | 251/500 [02:35<05:23,  1.30s/it]len(all_positive_trials) 122904
+ 50%|█████     | 252/500 [02:36<05:21,  1.30s/it]len(all_positive_trials) 123404
+ 51%|█████     | 253/500 [02:37<05:18,  1.29s/it]len(all_positive_trials) 123904
+ 51%|█████     | 254/500 [02:39<05:09,  1.26s/it]len(all_positive_trials) 124404
+ 51%|█████     | 255/500 [02:41<06:11,  1.52s/it]len(all_positive_trials) 124904
+ 51%|█████     | 256/500 [02:43<07:08,  1.76s/it]len(all_positive_trials) 125404
+ 51%|█████▏    | 257/500 [02:44<06:18,  1.56s/it]len(all_positive_trials) 125904
+ 52%|█████▏    | 258/500 [02:44<04:44,  1.18s/it]len(all_positive_trials) 126404
+ 52%|█████▏    | 259/500 [02:45<04:13,  1.05s/it]len(all_positive_trials) 126904
+ 52%|█████▏    | 260/500 [02:47<05:21,  1.34s/it]len(all_positive_trials) 127404
+ 52%|█████▏    | 261/500 [02:48<05:09,  1.30s/it]len(all_positive_trials) 127904
+ 52%|█████▏    | 262/500 [02:49<04:40,  1.18s/it]len(all_positive_trials) 128400
+ 53%|█████▎    | 263/500 [02:50<03:38,  1.09it/s]len(all_positive_trials) 128900
+ 53%|█████▎    | 264/500 [02:51<04:01,  1.02s/it]len(all_positive_trials) 129400
+ 53%|█████▎    | 265/500 [02:51<03:26,  1.14it/s]len(all_positive_trials) 129900
+ 53%|█████▎    | 266/500 [02:53<03:52,  1.01it/s]len(all_positive_trials) 130400
+ 53%|█████▎    | 267/500 [02:54<03:44,  1.04it/s]len(all_positive_trials) 130900
+ 54%|█████▎    | 268/500 [02:54<03:11,  1.21it/s]len(all_positive_trials) 131400
+ 54%|█████▍    | 269/500 [02:55<02:58,  1.30it/s]len(all_positive_trials) 131900
+ 54%|█████▍    | 270/500 [02:55<02:27,  1.56it/s]len(all_positive_trials) 132400
+ 54%|█████▍    | 271/500 [02:56<03:15,  1.17it/s]len(all_positive_trials) 132900
+ 54%|█████▍    | 272/500 [02:57<02:36,  1.46it/s]len(all_positive_trials) 133400
+ 55%|█████▍    | 273/500 [03:00<05:26,  1.44s/it]len(all_positive_trials) 133900
+ 55%|█████▍    | 274/500 [03:03<06:52,  1.83s/it]len(all_positive_trials) 134400
+ 55%|█████▌    | 275/500 [03:03<05:09,  1.37s/it]len(all_positive_trials) 134900
+ 55%|█████▌    | 276/500 [03:04<04:26,  1.19s/it]len(all_positive_trials) 135400
+ 55%|█████▌    | 277/500 [03:04<03:57,  1.06s/it]len(all_positive_trials) 135900
+ 56%|█████▌    | 278/500 [03:06<03:54,  1.06s/it]len(all_positive_trials) 136400
+ 56%|█████▌    | 279/500 [03:06<03:15,  1.13it/s]len(all_positive_trials) 136900
+ 56%|█████▌    | 280/500 [03:09<05:23,  1.47s/it]len(all_positive_trials) 137153
+ 56%|█████▌    | 281/500 [03:09<03:59,  1.09s/it]len(all_positive_trials) 137653
+ 56%|█████▋    | 282/500 [03:13<06:45,  1.86s/it]len(all_positive_trials) 138153
+ 57%|█████▋    | 283/500 [03:14<06:00,  1.66s/it]len(all_positive_trials) 138653
+ 57%|█████▋    | 284/500 [03:15<04:58,  1.38s/it]len(all_positive_trials) 139004
+ 57%|█████▋    | 285/500 [03:15<03:45,  1.05s/it]len(all_positive_trials) 139504
+ 57%|█████▋    | 286/500 [03:18<05:35,  1.57s/it]len(all_positive_trials) 140004
+ 57%|█████▋    | 287/500 [03:19<04:53,  1.38s/it]len(all_positive_trials) 140504
+ 58%|█████▊    | 288/500 [03:19<03:56,  1.12s/it]len(all_positive_trials) 141004
+ 58%|█████▊    | 289/500 [03:20<03:36,  1.03s/it]len(all_positive_trials) 141504
+ 58%|█████▊    | 290/500 [03:24<06:17,  1.80s/it]len(all_positive_trials) 142004
+ 58%|█████▊    | 291/500 [03:24<05:10,  1.49s/it]len(all_positive_trials) 142504
+ 58%|█████▊    | 292/500 [03:25<03:57,  1.14s/it]len(all_positive_trials) 143004
+ 59%|█████▊    | 293/500 [03:26<04:17,  1.24s/it]len(all_positive_trials) 143504
+ 59%|█████▉    | 294/500 [03:27<03:41,  1.07s/it]len(all_positive_trials) 144004
+ 59%|█████▉    | 295/500 [03:28<03:56,  1.15s/it]len(all_positive_trials) 144504
+ 59%|█████▉    | 296/500 [03:29<03:27,  1.02s/it]len(all_positive_trials) 144939
+ 59%|█████▉    | 297/500 [03:29<02:45,  1.22it/s]len(all_positive_trials) 145439
+ 60%|█████▉    | 298/500 [03:30<02:31,  1.34it/s]len(all_positive_trials) 145939
+ 60%|█████▉    | 299/500 [03:33<05:28,  1.63s/it]len(all_positive_trials) 146439
+ 60%|██████    | 300/500 [03:35<05:10,  1.55s/it]len(all_positive_trials) 146935
+ 60%|██████    | 301/500 [03:35<03:53,  1.17s/it]len(all_positive_trials) 147435
+ 60%|██████    | 302/500 [03:39<06:24,  1.94s/it]len(all_positive_trials) 147935
+ 61%|██████    | 303/500 [03:41<06:12,  1.89s/it]len(all_positive_trials) 148435
+ 61%|██████    | 304/500 [03:41<05:03,  1.55s/it]len(all_positive_trials) 148935
+ 61%|██████    | 305/500 [03:45<06:56,  2.14s/it]len(all_positive_trials) 149435
+ 61%|██████    | 306/500 [03:46<05:44,  1.78s/it]len(all_positive_trials) 149935
+ 61%|██████▏   | 307/500 [03:47<04:45,  1.48s/it]len(all_positive_trials) 150435
+ 62%|██████▏   | 308/500 [03:47<03:59,  1.25s/it]len(all_positive_trials) 150935
+ 62%|██████▏   | 309/500 [03:49<04:21,  1.37s/it]len(all_positive_trials) 151435
+ 62%|██████▏   | 310/500 [03:51<04:33,  1.44s/it]len(all_positive_trials) 151935
+ 62%|██████▏   | 311/500 [03:53<05:07,  1.63s/it]len(all_positive_trials) 152435
+ 62%|██████▏   | 312/500 [03:55<06:13,  1.99s/it]len(all_positive_trials) 152935
+ 63%|██████▎   | 313/500 [03:56<05:17,  1.70s/it]len(all_positive_trials) 153435
+ 63%|██████▎   | 314/500 [03:57<04:01,  1.30s/it]len(all_positive_trials) 153935
+ 63%|██████▎   | 315/500 [04:01<06:41,  2.17s/it]len(all_positive_trials) 154435
+ 63%|██████▎   | 316/500 [04:02<05:13,  1.70s/it]len(all_positive_trials) 154935
+ 63%|██████▎   | 317/500 [04:03<04:52,  1.60s/it]len(all_positive_trials) 155435
+ 64%|██████▎   | 318/500 [04:04<04:21,  1.44s/it]len(all_positive_trials) 155935
+ 64%|██████▍   | 319/500 [04:06<04:35,  1.52s/it]len(all_positive_trials) 156435
+ 64%|██████▍   | 320/500 [04:07<03:54,  1.30s/it]len(all_positive_trials) 156935
+ 64%|██████▍   | 321/500 [04:10<05:18,  1.78s/it]len(all_positive_trials) 157435
+ 64%|██████▍   | 322/500 [04:12<05:34,  1.88s/it]len(all_positive_trials) 157935
+ 65%|██████▍   | 323/500 [04:12<04:26,  1.51s/it]len(all_positive_trials) 158435
+ 65%|██████▍   | 324/500 [04:17<07:06,  2.42s/it]len(all_positive_trials) 158935
+ 65%|██████▌   | 325/500 [04:17<05:25,  1.86s/it]len(all_positive_trials) 159435
+ 65%|██████▌   | 326/500 [04:19<05:26,  1.88s/it]len(all_positive_trials) 159935
+ 65%|██████▌   | 327/500 [04:20<04:14,  1.47s/it]len(all_positive_trials) 160235
+ 66%|██████▌   | 328/500 [04:20<03:28,  1.21s/it]len(all_positive_trials) 160735
+ 66%|██████▌   | 329/500 [04:22<03:40,  1.29s/it]len(all_positive_trials) 161235
+ 66%|██████▌   | 330/500 [04:23<03:14,  1.14s/it]len(all_positive_trials) 161735
+ 66%|██████▌   | 331/500 [04:24<03:30,  1.24s/it]len(all_positive_trials) 162200
+ 66%|██████▋   | 332/500 [04:25<02:59,  1.07s/it]len(all_positive_trials) 162700
+ 67%|██████▋   | 333/500 [04:29<05:23,  1.94s/it]len(all_positive_trials) 163200
+ 67%|██████▋   | 334/500 [04:29<04:08,  1.50s/it]len(all_positive_trials) 163700
+ 67%|██████▋   | 335/500 [04:30<03:23,  1.23s/it]len(all_positive_trials) 164200
+ 67%|██████▋   | 336/500 [04:32<03:42,  1.36s/it]len(all_positive_trials) 164700
+ 67%|██████▋   | 337/500 [04:34<04:47,  1.76s/it]len(all_positive_trials) 165200
+ 68%|██████▊   | 338/500 [04:35<04:08,  1.54s/it]len(all_positive_trials) 165700
+ 68%|██████▊   | 339/500 [04:40<06:38,  2.48s/it]len(all_positive_trials) 166200
+ 68%|██████▊   | 340/500 [04:42<06:18,  2.37s/it]len(all_positive_trials) 166700
+ 68%|██████▊   | 341/500 [04:43<05:04,  1.92s/it]len(all_positive_trials) 167200
+ 68%|██████▊   | 342/500 [04:44<04:10,  1.59s/it]len(all_positive_trials) 167700
+ 69%|██████▊   | 343/500 [04:45<03:49,  1.46s/it]len(all_positive_trials) 168200
+ 69%|██████▉   | 344/500 [04:45<03:06,  1.20s/it]len(all_positive_trials) 168700
+ 69%|██████▉   | 345/500 [04:48<04:11,  1.63s/it]len(all_positive_trials) 169200
+ 69%|██████▉   | 346/500 [04:49<03:24,  1.33s/it]len(all_positive_trials) 169700
+ 69%|██████▉   | 347/500 [04:52<04:33,  1.79s/it]len(all_positive_trials) 170200
+ 70%|██████▉   | 348/500 [04:55<05:35,  2.21s/it]len(all_positive_trials) 170700
+ 70%|██████▉   | 349/500 [04:56<04:54,  1.95s/it]len(all_positive_trials) 171200
+ 70%|███████   | 350/500 [04:57<03:55,  1.57s/it]len(all_positive_trials) 171525
+ 70%|███████   | 351/500 [04:57<02:59,  1.20s/it]len(all_positive_trials) 172025
+ 70%|███████   | 352/500 [05:00<04:15,  1.72s/it]len(all_positive_trials) 172525
+ 71%|███████   | 353/500 [05:01<03:27,  1.41s/it]len(all_positive_trials) 173025
+ 71%|███████   | 354/500 [05:02<03:03,  1.26s/it]len(all_positive_trials) 173525
+ 71%|███████   | 355/500 [05:06<05:33,  2.30s/it]len(all_positive_trials) 174025
+ 71%|███████   | 356/500 [05:07<04:26,  1.85s/it]len(all_positive_trials) 174525
+ 71%|███████▏  | 357/500 [05:09<04:26,  1.87s/it]len(all_positive_trials) 175025
+ 72%|███████▏  | 358/500 [05:12<05:18,  2.24s/it]len(all_positive_trials) 175525
+ 72%|███████▏  | 359/500 [05:15<05:44,  2.44s/it]len(all_positive_trials) 176025
+ 72%|███████▏  | 360/500 [05:18<06:08,  2.63s/it]len(all_positive_trials) 176525
+ 72%|███████▏  | 361/500 [05:20<05:18,  2.29s/it]len(all_positive_trials) 177025
+ 72%|███████▏  | 362/500 [05:22<05:18,  2.31s/it]len(all_positive_trials) 177525
+ 73%|███████▎  | 363/500 [05:24<05:18,  2.32s/it]len(all_positive_trials) 178025
+ 73%|███████▎  | 364/500 [05:26<04:26,  1.96s/it]len(all_positive_trials) 178525
+ 73%|███████▎  | 365/500 [05:27<04:03,  1.81s/it]len(all_positive_trials) 179025
+ 73%|███████▎  | 366/500 [05:28<03:44,  1.68s/it]len(all_positive_trials) 179525
+ 73%|███████▎  | 367/500 [05:32<05:06,  2.31s/it]len(all_positive_trials) 180025
+ 74%|███████▎  | 368/500 [05:33<03:54,  1.78s/it]len(all_positive_trials) 180525
+ 74%|███████▍  | 369/500 [05:34<03:24,  1.56s/it]len(all_positive_trials) 181025
+ 74%|███████▍  | 370/500 [05:35<03:29,  1.61s/it]len(all_positive_trials) 181525
+ 74%|███████▍  | 371/500 [05:36<03:03,  1.42s/it]len(all_positive_trials) 182025
+ 74%|███████▍  | 372/500 [05:39<03:31,  1.65s/it]len(all_positive_trials) 182525
+ 75%|███████▍  | 373/500 [05:41<03:56,  1.86s/it]len(all_positive_trials) 183025
+ 75%|███████▍  | 374/500 [05:43<03:55,  1.87s/it]len(all_positive_trials) 183235
+ 75%|███████▌  | 375/500 [05:43<02:53,  1.39s/it]len(all_positive_trials) 183735
+ 75%|███████▌  | 376/500 [05:47<04:35,  2.23s/it]len(all_positive_trials) 184235
+ 75%|███████▌  | 377/500 [05:48<03:30,  1.71s/it]len(all_positive_trials) 184735
+ 76%|███████▌  | 378/500 [05:48<02:41,  1.32s/it]len(all_positive_trials) 185235
+ 76%|███████▌  | 379/500 [05:49<02:11,  1.09s/it]len(all_positive_trials) 185735
+ 76%|███████▌  | 380/500 [05:50<02:13,  1.11s/it]len(all_positive_trials) 186235
+ 76%|███████▌  | 381/500 [05:54<04:10,  2.10s/it]len(all_positive_trials) 186735
+ 76%|███████▋  | 382/500 [05:56<03:57,  2.01s/it]len(all_positive_trials) 187235
+ 77%|███████▋  | 383/500 [05:59<04:18,  2.21s/it]len(all_positive_trials) 187735
+ 77%|███████▋  | 384/500 [06:04<05:45,  2.98s/it]len(all_positive_trials) 188235
+ 77%|███████▋  | 385/500 [06:07<05:42,  2.98s/it]len(all_positive_trials) 188735
+ 77%|███████▋  | 386/500 [06:07<04:19,  2.28s/it]len(all_positive_trials) 189235
+ 77%|███████▋  | 387/500 [06:12<05:56,  3.16s/it]len(all_positive_trials) 189735
+ 78%|███████▊  | 388/500 [06:14<04:49,  2.58s/it]len(all_positive_trials) 190235
+ 78%|███████▊  | 389/500 [06:17<04:58,  2.69s/it]len(all_positive_trials) 190735
+ 78%|███████▊  | 390/500 [06:21<05:40,  3.10s/it]len(all_positive_trials) 191235
+ 78%|███████▊  | 391/500 [06:22<04:30,  2.48s/it]len(all_positive_trials) 191735
+ 78%|███████▊  | 392/500 [06:24<04:10,  2.32s/it]len(all_positive_trials) 192235
+ 79%|███████▊  | 393/500 [06:26<04:11,  2.35s/it]len(all_positive_trials) 192735
+ 79%|███████▉  | 394/500 [06:27<03:34,  2.03s/it]len(all_positive_trials) 193235
+ 79%|███████▉  | 395/500 [06:29<03:25,  1.95s/it]len(all_positive_trials) 193735
+ 79%|███████▉  | 396/500 [06:32<03:47,  2.18s/it]len(all_positive_trials) 194170
+ 79%|███████▉  | 397/500 [06:32<02:50,  1.66s/it]len(all_positive_trials) 194670
+ 80%|███████▉  | 398/500 [06:37<04:32,  2.68s/it]len(all_positive_trials) 195170
+ 80%|███████▉  | 399/500 [06:38<03:36,  2.15s/it]len(all_positive_trials) 195670
+ 80%|████████  | 400/500 [06:44<05:17,  3.17s/it]len(all_positive_trials) 196170
+ 80%|████████  | 401/500 [06:49<06:02,  3.66s/it]len(all_positive_trials) 196670
+ 80%|████████  | 402/500 [06:51<05:16,  3.23s/it]len(all_positive_trials) 197170
+ 81%|████████  | 403/500 [06:52<04:01,  2.49s/it]len(all_positive_trials) 197670
+ 81%|████████  | 404/500 [06:52<03:12,  2.01s/it]len(all_positive_trials) 198170
+ 81%|████████  | 405/500 [06:54<03:08,  1.99s/it]len(all_positive_trials) 198670
+ 81%|████████  | 406/500 [06:56<03:09,  2.01s/it]len(all_positive_trials) 199170
+ 81%|████████▏ | 407/500 [06:57<02:31,  1.63s/it]len(all_positive_trials) 199670
+ 82%|████████▏ | 408/500 [07:03<04:22,  2.85s/it]len(all_positive_trials) 200170
+ 82%|████████▏ | 409/500 [07:03<03:18,  2.18s/it]len(all_positive_trials) 200670
+ 82%|████████▏ | 410/500 [07:09<04:54,  3.27s/it]len(all_positive_trials) 201170
+ 82%|████████▏ | 411/500 [07:13<04:49,  3.25s/it]len(all_positive_trials) 201670
+ 82%|████████▏ | 412/500 [07:13<03:36,  2.46s/it]len(all_positive_trials) 202166
+ 83%|████████▎ | 413/500 [07:14<02:41,  1.85s/it]len(all_positive_trials) 202376
+ 83%|████████▎ | 414/500 [07:14<02:11,  1.53s/it]len(all_positive_trials) 202876
+ 83%|████████▎ | 415/500 [07:16<02:02,  1.44s/it]len(all_positive_trials) 203376
+ 83%|████████▎ | 416/500 [07:16<01:44,  1.25s/it]len(all_positive_trials) 203876
+ 83%|████████▎ | 417/500 [07:19<02:20,  1.69s/it]len(all_positive_trials) 204376
+ 84%|████████▎ | 418/500 [07:24<03:41,  2.70s/it]len(all_positive_trials) 204876
+ 84%|████████▍ | 419/500 [07:25<02:56,  2.18s/it]len(all_positive_trials) 205376
+ 84%|████████▍ | 420/500 [07:27<02:56,  2.21s/it]len(all_positive_trials) 205876
+ 84%|████████▍ | 421/500 [07:28<02:23,  1.82s/it]len(all_positive_trials) 206376
+ 84%|████████▍ | 422/500 [07:31<02:37,  2.02s/it]len(all_positive_trials) 206876
+ 85%|████████▍ | 423/500 [07:34<03:08,  2.45s/it]len(all_positive_trials) 207376
+ 85%|████████▍ | 424/500 [07:37<03:23,  2.68s/it]len(all_positive_trials) 207876
+ 85%|████████▌ | 425/500 [07:39<02:47,  2.24s/it]len(all_positive_trials) 208376
+ 85%|████████▌ | 426/500 [07:40<02:15,  1.83s/it]len(all_positive_trials) 208876
+ 85%|████████▌ | 427/500 [07:41<01:58,  1.62s/it]len(all_positive_trials) 209376
+ 86%|████████▌ | 428/500 [07:43<02:14,  1.87s/it]len(all_positive_trials) 209727
+ 86%|████████▌ | 429/500 [07:44<01:41,  1.43s/it]len(all_positive_trials) 210227
+ 86%|████████▌ | 430/500 [07:48<02:48,  2.40s/it]len(all_positive_trials) 210727
+ 86%|████████▌ | 431/500 [07:52<03:20,  2.90s/it]len(all_positive_trials) 211227
+ 86%|████████▋ | 432/500 [07:56<03:28,  3.06s/it]len(all_positive_trials) 211727
+ 87%|████████▋ | 433/500 [07:58<03:02,  2.72s/it]len(all_positive_trials) 212227
+ 87%|████████▋ | 434/500 [08:03<03:59,  3.63s/it]len(all_positive_trials) 212727
+ 87%|████████▋ | 435/500 [08:05<03:14,  2.99s/it]len(all_positive_trials) 213227
+ 87%|████████▋ | 436/500 [08:08<03:07,  2.93s/it]len(all_positive_trials) 213727
+ 87%|████████▋ | 437/500 [08:08<02:23,  2.28s/it]len(all_positive_trials) 214227
+ 88%|████████▊ | 438/500 [08:11<02:18,  2.23s/it]len(all_positive_trials) 214727
+ 88%|████████▊ | 439/500 [08:12<02:05,  2.06s/it]len(all_positive_trials) 215227
+ 88%|████████▊ | 440/500 [08:16<02:31,  2.52s/it]len(all_positive_trials) 215727
+ 88%|████████▊ | 441/500 [08:18<02:30,  2.55s/it]len(all_positive_trials) 216227
+ 88%|████████▊ | 442/500 [08:21<02:28,  2.55s/it]len(all_positive_trials) 216727
+ 89%|████████▊ | 443/500 [08:23<02:15,  2.38s/it]len(all_positive_trials) 217052
+ 89%|████████▉ | 444/500 [08:23<01:40,  1.80s/it]len(all_positive_trials) 217552
+ 89%|████████▉ | 445/500 [08:24<01:22,  1.51s/it]len(all_positive_trials) 218052
+ 89%|████████▉ | 446/500 [08:28<01:53,  2.09s/it]len(all_positive_trials) 218552
+ 89%|████████▉ | 447/500 [08:28<01:25,  1.62s/it]len(all_positive_trials) 219052
+ 90%|████████▉ | 448/500 [08:32<01:52,  2.17s/it]len(all_positive_trials) 219552
+ 90%|████████▉ | 449/500 [08:34<01:50,  2.16s/it]len(all_positive_trials) 220052
+ 90%|█████████ | 450/500 [08:38<02:12,  2.65s/it]len(all_positive_trials) 220552
+ 90%|█████████ | 451/500 [08:40<01:59,  2.45s/it]len(all_positive_trials) 221052
+ 90%|█████████ | 452/500 [08:41<01:38,  2.05s/it]len(all_positive_trials) 221552
+ 91%|█████████ | 453/500 [08:42<01:24,  1.79s/it]len(all_positive_trials) 222052
+ 91%|█████████ | 454/500 [08:47<02:13,  2.89s/it]len(all_positive_trials) 222552
+ 91%|█████████ | 455/500 [08:48<01:39,  2.22s/it]len(all_positive_trials) 223052
+ 91%|█████████ | 456/500 [08:49<01:25,  1.94s/it]len(all_positive_trials) 223552
+ 91%|█████████▏| 457/500 [08:55<02:13,  3.10s/it]len(all_positive_trials) 224052
+ 92%|█████████▏| 458/500 [08:56<01:40,  2.39s/it]len(all_positive_trials) 224552
+ 92%|█████████▏| 459/500 [08:57<01:27,  2.14s/it]len(all_positive_trials) 225052
+ 92%|█████████▏| 460/500 [08:58<01:10,  1.77s/it]len(all_positive_trials) 225552
+ 92%|█████████▏| 461/500 [09:05<02:05,  3.23s/it]len(all_positive_trials) 226052
+ 92%|█████████▏| 462/500 [09:07<01:47,  2.83s/it]len(all_positive_trials) 226552
+ 93%|█████████▎| 463/500 [09:08<01:31,  2.47s/it]len(all_positive_trials) 227052
+ 93%|█████████▎| 464/500 [09:11<01:30,  2.52s/it]len(all_positive_trials) 227552
+ 93%|█████████▎| 465/500 [09:13<01:19,  2.28s/it]len(all_positive_trials) 228052
+ 93%|█████████▎| 466/500 [09:14<01:10,  2.06s/it]len(all_positive_trials) 228552
+ 93%|█████████▎| 467/500 [09:15<00:53,  1.62s/it]len(all_positive_trials) 229052
+ 94%|█████████▎| 468/500 [09:16<00:41,  1.30s/it]len(all_positive_trials) 229552
+ 94%|█████████▍| 469/500 [09:22<01:23,  2.71s/it]len(all_positive_trials) 230052
+ 94%|█████████▍| 470/500 [09:24<01:19,  2.66s/it]len(all_positive_trials) 230552
+ 94%|█████████▍| 471/500 [09:28<01:26,  2.98s/it]len(all_positive_trials) 231052
+ 94%|█████████▍| 472/500 [09:29<01:10,  2.51s/it]len(all_positive_trials) 231552
+ 95%|█████████▍| 473/500 [09:36<01:43,  3.85s/it]len(all_positive_trials) 232052
+ 95%|█████████▍| 474/500 [09:38<01:23,  3.20s/it]len(all_positive_trials) 232552
+ 95%|█████████▌| 475/500 [09:45<01:50,  4.43s/it]len(all_positive_trials) 233052
+ 95%|█████████▌| 476/500 [09:47<01:25,  3.56s/it]len(all_positive_trials) 233552
+ 95%|█████████▌| 477/500 [09:50<01:19,  3.44s/it]len(all_positive_trials) 234052
+ 96%|█████████▌| 478/500 [09:51<01:03,  2.87s/it]len(all_positive_trials) 234552
+ 96%|█████████▌| 479/500 [09:54<00:58,  2.77s/it]len(all_positive_trials) 235052
+ 96%|█████████▌| 480/500 [09:57<00:59,  2.97s/it]len(all_positive_trials) 235552
+ 96%|█████████▌| 481/500 [09:58<00:45,  2.40s/it]len(all_positive_trials) 236052
+ 96%|█████████▋| 482/500 [10:02<00:50,  2.80s/it]len(all_positive_trials) 236552
+ 97%|█████████▋| 483/500 [10:05<00:49,  2.93s/it]len(all_positive_trials) 237052
+ 97%|█████████▋| 484/500 [10:10<00:53,  3.36s/it]len(all_positive_trials) 237552
+ 97%|█████████▋| 485/500 [10:13<00:48,  3.24s/it]len(all_positive_trials) 238052
+ 97%|█████████▋| 486/500 [10:17<00:50,  3.64s/it]len(all_positive_trials) 238552
+ 97%|█████████▋| 487/500 [10:21<00:46,  3.60s/it]len(all_positive_trials) 239052
+ 98%|█████████▊| 488/500 [10:22<00:36,  3.02s/it]len(all_positive_trials) 239552
+ 98%|█████████▊| 489/500 [10:29<00:45,  4.16s/it]len(all_positive_trials) 240052
+ 98%|█████████▊| 490/500 [10:31<00:34,  3.50s/it]len(all_positive_trials) 240552
+ 98%|█████████▊| 491/500 [10:32<00:25,  2.78s/it]len(all_positive_trials) 241052
+ 98%|█████████▊| 492/500 [10:34<00:19,  2.44s/it]len(all_positive_trials) 241552
+ 99%|█████████▊| 493/500 [10:36<00:16,  2.41s/it]len(all_positive_trials) 242052
+ 99%|█████████▉| 494/500 [10:38<00:13,  2.18s/it]len(all_positive_trials) 242552
+ 99%|█████████▉| 495/500 [10:42<00:13,  2.73s/it]len(all_positive_trials) 243052
+ 99%|█████████▉| 496/500 [10:43<00:08,  2.10s/it]len(all_positive_trials) 243552
+ 99%|█████████▉| 497/500 [10:44<00:05,  1.78s/it]len(all_positive_trials) 244052
+100%|█████████▉| 498/500 [10:46<00:04,  2.02s/it]len(all_positive_trials) 244552
+100%|█████████▉| 499/500 [10:49<00:02,  2.14s/it]len(all_positive_trials) 245052
+100%|██████████| 500/500 [10:51<00:00,  2.33s/it]100%|██████████| 500/500 [10:51<00:00,  1.30s/it]
+ === generating all pairs === 
+  0%|          | 0/2000 [00:00<?, ?it/s]len(all_positive_trials) 245552
+len(all_positive_trials) 246052
+len(all_positive_trials) 246552
+len(all_positive_trials) 247052
+len(all_positive_trials) 247552
+len(all_positive_trials) 248052
+len(all_positive_trials) 248552
+  0%|          | 7/2000 [00:00<00:35, 55.96it/s]len(all_positive_trials) 249052
+len(all_positive_trials) 249548
+len(all_positive_trials) 250048
+len(all_positive_trials) 250548
+len(all_positive_trials) 251048
+len(all_positive_trials) 251548
+  1%|          | 13/2000 [00:00<00:45, 44.07it/s]len(all_positive_trials) 252048
+len(all_positive_trials) 252548
+len(all_positive_trials) 253048
+len(all_positive_trials) 253548
+len(all_positive_trials) 254048
+  1%|          | 18/2000 [00:00<01:37, 20.40it/s]len(all_positive_trials) 254548
+len(all_positive_trials) 255048
+len(all_positive_trials) 255548
+  1%|          | 21/2000 [00:01<02:02, 16.15it/s]len(all_positive_trials) 256048
+len(all_positive_trials) 256548
+len(all_positive_trials) 257048
+  1%|          | 24/2000 [00:01<02:49, 11.63it/s]len(all_positive_trials) 257548
+len(all_positive_trials) 257954
+  1%|▏         | 26/2000 [00:01<02:51, 11.53it/s]len(all_positive_trials) 258454
+len(all_positive_trials) 258805
+  1%|▏         | 28/2000 [00:01<02:37, 12.48it/s]len(all_positive_trials) 259305
+len(all_positive_trials) 259805
+len(all_positive_trials) 260305
+  2%|▏         | 31/2000 [00:01<02:22, 13.83it/s]len(all_positive_trials) 260805
+len(all_positive_trials) 261305
+  2%|▏         | 33/2000 [00:02<03:53,  8.44it/s]len(all_positive_trials) 261805
+len(all_positive_trials) 262305
+  2%|▏         | 35/2000 [00:03<08:37,  3.80it/s]len(all_positive_trials) 262805
+  2%|▏         | 36/2000 [00:04<08:28,  3.87it/s]len(all_positive_trials) 263305
+  2%|▏         | 37/2000 [00:04<08:04,  4.05it/s]len(all_positive_trials) 263805
+len(all_positive_trials) 264305
+len(all_positive_trials) 264805
+  2%|▏         | 40/2000 [00:04<05:15,  6.22it/s]len(all_positive_trials) 265305
+len(all_positive_trials) 265805
+  2%|▏         | 42/2000 [00:04<04:49,  6.77it/s]len(all_positive_trials) 266305
+len(all_positive_trials) 266805
+  2%|▏         | 44/2000 [00:05<05:36,  5.81it/s]len(all_positive_trials) 267305
+  2%|▏         | 45/2000 [00:05<05:21,  6.08it/s]len(all_positive_trials) 267805
+  2%|▏         | 46/2000 [00:05<05:19,  6.11it/s]len(all_positive_trials) 268305
+len(all_positive_trials) 268805
+  2%|▏         | 48/2000 [00:05<05:42,  5.70it/s]len(all_positive_trials) 269305
+len(all_positive_trials) 269805
+  2%|▎         | 50/2000 [00:06<05:14,  6.19it/s]len(all_positive_trials) 270305
+  3%|▎         | 51/2000 [00:06<05:28,  5.93it/s]len(all_positive_trials) 270805
+  3%|▎         | 52/2000 [00:06<08:09,  3.98it/s]len(all_positive_trials) 271305
+  3%|▎         | 53/2000 [00:06<07:13,  4.50it/s]len(all_positive_trials) 271805
+  3%|▎         | 54/2000 [00:07<08:27,  3.83it/s]len(all_positive_trials) 272081
+len(all_positive_trials) 272581
+  3%|▎         | 56/2000 [00:08<10:17,  3.15it/s]len(all_positive_trials) 273081
+  3%|▎         | 57/2000 [00:08<08:51,  3.65it/s]len(all_positive_trials) 273581
+  3%|▎         | 58/2000 [00:08<08:59,  3.60it/s]len(all_positive_trials) 274081
+  3%|▎         | 59/2000 [00:09<13:26,  2.41it/s]len(all_positive_trials) 274581
+  3%|▎         | 60/2000 [00:09<12:57,  2.50it/s]len(all_positive_trials) 275081
+  3%|▎         | 61/2000 [00:09<10:13,  3.16it/s]len(all_positive_trials) 275581
+  3%|▎         | 62/2000 [00:10<09:52,  3.27it/s]len(all_positive_trials) 276081
+  3%|▎         | 63/2000 [00:10<09:52,  3.27it/s]len(all_positive_trials) 276581
+  3%|▎         | 64/2000 [00:10<10:59,  2.93it/s]len(all_positive_trials) 277081
+  3%|▎         | 65/2000 [00:11<09:32,  3.38it/s]len(all_positive_trials) 277581
+  3%|▎         | 66/2000 [00:11<10:15,  3.14it/s]len(all_positive_trials) 278081
+  3%|▎         | 67/2000 [00:11<11:45,  2.74it/s]len(all_positive_trials) 278581
+  3%|▎         | 68/2000 [00:12<14:16,  2.26it/s]len(all_positive_trials) 279081
+  3%|▎         | 69/2000 [00:12<11:56,  2.70it/s]len(all_positive_trials) 279581
+  4%|▎         | 70/2000 [00:13<15:46,  2.04it/s]len(all_positive_trials) 280081
+  4%|▎         | 71/2000 [00:13<15:38,  2.05it/s]len(all_positive_trials) 280581
+  4%|▎         | 72/2000 [00:14<12:04,  2.66it/s]len(all_positive_trials) 281081
+  4%|▎         | 73/2000 [00:14<11:15,  2.85it/s]len(all_positive_trials) 281581
+  4%|▎         | 74/2000 [00:15<17:08,  1.87it/s]len(all_positive_trials) 282081
+  4%|▍         | 75/2000 [00:15<17:13,  1.86it/s]len(all_positive_trials) 282581
+  4%|▍         | 76/2000 [00:15<13:20,  2.40it/s]len(all_positive_trials) 283081
+  4%|▍         | 77/2000 [00:16<10:53,  2.94it/s]len(all_positive_trials) 283581
+  4%|▍         | 78/2000 [00:16<08:47,  3.64it/s]len(all_positive_trials) 284081
+  4%|▍         | 79/2000 [00:16<11:46,  2.72it/s]len(all_positive_trials) 284581
+  4%|▍         | 80/2000 [00:17<10:56,  2.92it/s]len(all_positive_trials) 285081
+  4%|▍         | 81/2000 [00:17<12:38,  2.53it/s]len(all_positive_trials) 285581
+  4%|▍         | 82/2000 [00:18<19:24,  1.65it/s]len(all_positive_trials) 285906
+len(all_positive_trials) 286406
+  4%|▍         | 84/2000 [00:19<17:36,  1.81it/s]len(all_positive_trials) 286906
+  4%|▍         | 85/2000 [00:20<15:37,  2.04it/s]len(all_positive_trials) 287406
+len(all_positive_trials) 287906
+  4%|▍         | 87/2000 [00:20<14:03,  2.27it/s]len(all_positive_trials) 288406
+  4%|▍         | 88/2000 [00:21<17:09,  1.86it/s]len(all_positive_trials) 288906
+  4%|▍         | 89/2000 [00:22<18:45,  1.70it/s]len(all_positive_trials) 289406
+  4%|▍         | 90/2000 [00:23<23:24,  1.36it/s]len(all_positive_trials) 289906
+  5%|▍         | 91/2000 [00:24<22:09,  1.44it/s]len(all_positive_trials) 290406
+  5%|▍         | 92/2000 [00:24<22:06,  1.44it/s]len(all_positive_trials) 290906
+  5%|▍         | 93/2000 [00:25<19:41,  1.61it/s]len(all_positive_trials) 291406
+  5%|▍         | 94/2000 [00:26<25:34,  1.24it/s]len(all_positive_trials) 291906
+  5%|▍         | 95/2000 [00:27<25:19,  1.25it/s]len(all_positive_trials) 292402
+len(all_positive_trials) 292902
+  5%|▍         | 97/2000 [00:28<20:28,  1.55it/s]len(all_positive_trials) 293402
+  5%|▍         | 98/2000 [00:29<23:14,  1.36it/s]len(all_positive_trials) 293902
+  5%|▍         | 99/2000 [00:30<27:49,  1.14it/s]len(all_positive_trials) 294402
+  5%|▌         | 100/2000 [00:30<21:38,  1.46it/s]len(all_positive_trials) 294902
+  5%|▌         | 101/2000 [00:31<18:40,  1.69it/s]len(all_positive_trials) 295402
+  5%|▌         | 102/2000 [00:32<23:40,  1.34it/s]len(all_positive_trials) 295902
+  5%|▌         | 103/2000 [00:32<21:05,  1.50it/s]len(all_positive_trials) 296402
+  5%|▌         | 104/2000 [00:32<16:04,  1.97it/s]len(all_positive_trials) 296837
+  5%|▌         | 105/2000 [00:32<12:22,  2.55it/s]len(all_positive_trials) 297337
+  5%|▌         | 106/2000 [00:34<23:16,  1.36it/s]len(all_positive_trials) 297837
+  5%|▌         | 107/2000 [00:34<20:30,  1.54it/s]len(all_positive_trials) 298337
+  5%|▌         | 108/2000 [00:35<22:41,  1.39it/s]len(all_positive_trials) 298837
+  5%|▌         | 109/2000 [00:36<25:49,  1.22it/s]len(all_positive_trials) 299337
+  6%|▌         | 110/2000 [00:37<27:17,  1.15it/s]len(all_positive_trials) 299837
+  6%|▌         | 111/2000 [00:39<31:30,  1.00s/it]len(all_positive_trials) 300337
+  6%|▌         | 112/2000 [00:39<30:04,  1.05it/s]len(all_positive_trials) 300837
+  6%|▌         | 113/2000 [00:40<23:22,  1.35it/s]len(all_positive_trials) 301337
+  6%|▌         | 114/2000 [00:40<19:26,  1.62it/s]len(all_positive_trials) 301837
+  6%|▌         | 115/2000 [00:41<21:44,  1.45it/s]len(all_positive_trials) 302337
+  6%|▌         | 116/2000 [00:42<24:37,  1.28it/s]len(all_positive_trials) 302837
+  6%|▌         | 117/2000 [00:42<19:38,  1.60it/s]len(all_positive_trials) 303337
+  6%|▌         | 118/2000 [00:44<30:45,  1.02it/s]len(all_positive_trials) 303837
+  6%|▌         | 119/2000 [00:44<25:19,  1.24it/s]len(all_positive_trials) 304337
+  6%|▌         | 120/2000 [00:45<21:02,  1.49it/s]len(all_positive_trials) 304837
+  6%|▌         | 121/2000 [00:45<21:28,  1.46it/s]len(all_positive_trials) 305337
+  6%|▌         | 122/2000 [00:46<16:29,  1.90it/s]len(all_positive_trials) 305837
+  6%|▌         | 123/2000 [00:46<17:50,  1.75it/s]len(all_positive_trials) 306337
+  6%|▌         | 124/2000 [00:47<14:51,  2.10it/s]len(all_positive_trials) 306837
+  6%|▋         | 125/2000 [00:48<23:20,  1.34it/s]len(all_positive_trials) 307337
+  6%|▋         | 126/2000 [00:48<17:52,  1.75it/s]len(all_positive_trials) 307837
+  6%|▋         | 127/2000 [00:51<36:19,  1.16s/it]len(all_positive_trials) 308337
+  6%|▋         | 128/2000 [00:51<29:44,  1.05it/s]len(all_positive_trials) 308837
+  6%|▋         | 129/2000 [00:52<32:05,  1.03s/it]len(all_positive_trials) 309337
+  6%|▋         | 130/2000 [00:53<28:54,  1.08it/s]len(all_positive_trials) 309837
+  7%|▋         | 131/2000 [00:53<25:11,  1.24it/s]len(all_positive_trials) 310337
+  7%|▋         | 132/2000 [00:55<27:46,  1.12it/s]len(all_positive_trials) 310547
+  7%|▋         | 133/2000 [00:55<20:22,  1.53it/s]len(all_positive_trials) 311047
+  7%|▋         | 134/2000 [00:55<16:14,  1.92it/s]len(all_positive_trials) 311547
+  7%|▋         | 135/2000 [00:56<22:16,  1.40it/s]len(all_positive_trials) 312047
+  7%|▋         | 136/2000 [00:57<26:33,  1.17it/s]len(all_positive_trials) 312547
+  7%|▋         | 137/2000 [00:57<20:40,  1.50it/s]len(all_positive_trials) 313047
+  7%|▋         | 138/2000 [00:58<21:09,  1.47it/s]len(all_positive_trials) 313547
+  7%|▋         | 139/2000 [00:59<24:59,  1.24it/s]len(all_positive_trials) 314047
+  7%|▋         | 140/2000 [01:01<31:19,  1.01s/it]len(all_positive_trials) 314278
+  7%|▋         | 141/2000 [01:01<22:57,  1.35it/s]len(all_positive_trials) 314778
+  7%|▋         | 142/2000 [01:01<18:29,  1.67it/s]len(all_positive_trials) 315278
+  7%|▋         | 143/2000 [01:02<19:41,  1.57it/s]len(all_positive_trials) 315778
+  7%|▋         | 144/2000 [01:03<23:21,  1.32it/s]len(all_positive_trials) 316278
+  7%|▋         | 145/2000 [01:03<18:49,  1.64it/s]len(all_positive_trials) 316778
+  7%|▋         | 146/2000 [01:04<17:28,  1.77it/s]len(all_positive_trials) 317278
+  7%|▋         | 147/2000 [01:06<30:40,  1.01it/s]len(all_positive_trials) 317778
+  7%|▋         | 148/2000 [01:07<37:04,  1.20s/it]len(all_positive_trials) 318278
+  7%|▋         | 149/2000 [01:08<34:58,  1.13s/it]len(all_positive_trials) 318778
+  8%|▊         | 150/2000 [01:10<41:35,  1.35s/it]len(all_positive_trials) 319103
+  8%|▊         | 151/2000 [01:10<30:22,  1.01it/s]len(all_positive_trials) 319603
+  8%|▊         | 152/2000 [01:12<37:38,  1.22s/it]len(all_positive_trials) 320103
+  8%|▊         | 153/2000 [01:14<44:56,  1.46s/it]len(all_positive_trials) 320603
+  8%|▊         | 154/2000 [01:15<41:42,  1.36s/it]len(all_positive_trials) 321103
+  8%|▊         | 155/2000 [01:17<44:23,  1.44s/it]len(all_positive_trials) 321603
+  8%|▊         | 156/2000 [01:17<32:56,  1.07s/it]len(all_positive_trials) 322103
+  8%|▊         | 157/2000 [01:17<26:14,  1.17it/s]len(all_positive_trials) 322603
+  8%|▊         | 158/2000 [01:19<29:34,  1.04it/s]len(all_positive_trials) 323103
+  8%|▊         | 159/2000 [01:19<24:05,  1.27it/s]len(all_positive_trials) 323603
+  8%|▊         | 160/2000 [01:19<19:37,  1.56it/s]len(all_positive_trials) 324103
+  8%|▊         | 161/2000 [01:21<29:29,  1.04it/s]len(all_positive_trials) 324603
+  8%|▊         | 162/2000 [01:23<37:26,  1.22s/it]len(all_positive_trials) 325103
+  8%|▊         | 163/2000 [01:23<28:35,  1.07it/s]len(all_positive_trials) 325603
+  8%|▊         | 164/2000 [01:24<26:03,  1.17it/s]len(all_positive_trials) 326103
+  8%|▊         | 165/2000 [01:25<29:44,  1.03it/s]len(all_positive_trials) 326603
+  8%|▊         | 166/2000 [01:25<24:37,  1.24it/s]len(all_positive_trials) 327103
+  8%|▊         | 167/2000 [01:26<20:13,  1.51it/s]len(all_positive_trials) 327603
+  8%|▊         | 168/2000 [01:26<18:26,  1.66it/s]len(all_positive_trials) 328103
+  8%|▊         | 169/2000 [01:29<34:16,  1.12s/it]len(all_positive_trials) 328403
+  8%|▊         | 170/2000 [01:29<25:13,  1.21it/s]len(all_positive_trials) 328903
+  9%|▊         | 171/2000 [01:31<39:07,  1.28s/it]len(all_positive_trials) 329403
+  9%|▊         | 172/2000 [01:33<42:26,  1.39s/it]len(all_positive_trials) 329903
+  9%|▊         | 173/2000 [01:33<34:04,  1.12s/it]len(all_positive_trials) 330403
+  9%|▊         | 174/2000 [01:34<33:21,  1.10s/it]len(all_positive_trials) 330903
+  9%|▉         | 175/2000 [01:35<28:03,  1.08it/s]len(all_positive_trials) 331254
+  9%|▉         | 176/2000 [01:35<21:12,  1.43it/s]len(all_positive_trials) 331754
+  9%|▉         | 177/2000 [01:35<18:16,  1.66it/s]len(all_positive_trials) 332254
+  9%|▉         | 178/2000 [01:36<21:57,  1.38it/s]len(all_positive_trials) 332754
+  9%|▉         | 179/2000 [01:39<38:14,  1.26s/it]len(all_positive_trials) 333254
+  9%|▉         | 180/2000 [01:40<41:06,  1.36s/it]len(all_positive_trials) 333754
+  9%|▉         | 181/2000 [01:41<31:56,  1.05s/it]len(all_positive_trials) 334254
+  9%|▉         | 182/2000 [01:41<24:57,  1.21it/s]len(all_positive_trials) 334754
+  9%|▉         | 183/2000 [01:41<20:05,  1.51it/s]len(all_positive_trials) 335254
+  9%|▉         | 184/2000 [01:42<22:39,  1.34it/s]len(all_positive_trials) 335754
+  9%|▉         | 185/2000 [01:45<36:56,  1.22s/it]len(all_positive_trials) 336254
+  9%|▉         | 186/2000 [01:45<33:53,  1.12s/it]len(all_positive_trials) 336754
+  9%|▉         | 187/2000 [01:46<27:32,  1.10it/s]len(all_positive_trials) 337254
+  9%|▉         | 188/2000 [01:46<21:31,  1.40it/s]len(all_positive_trials) 337754
+  9%|▉         | 189/2000 [01:47<20:34,  1.47it/s]len(all_positive_trials) 338254
+ 10%|▉         | 190/2000 [01:49<36:52,  1.22s/it]len(all_positive_trials) 338754
+ 10%|▉         | 191/2000 [01:50<36:41,  1.22s/it]len(all_positive_trials) 339254
+ 10%|▉         | 192/2000 [01:51<33:41,  1.12s/it]len(all_positive_trials) 339754
+ 10%|▉         | 193/2000 [01:53<40:26,  1.34s/it]len(all_positive_trials) 340160
+ 10%|▉         | 194/2000 [01:53<30:03,  1.00it/s]len(all_positive_trials) 340660
+ 10%|▉         | 195/2000 [01:54<23:40,  1.27it/s]len(all_positive_trials) 341160
+ 10%|▉         | 196/2000 [01:54<20:11,  1.49it/s]len(all_positive_trials) 341660
+ 10%|▉         | 197/2000 [01:56<27:28,  1.09it/s]len(all_positive_trials) 342160
+ 10%|▉         | 198/2000 [01:57<33:12,  1.11s/it]len(all_positive_trials) 342391
+ 10%|▉         | 199/2000 [01:57<24:40,  1.22it/s]len(all_positive_trials) 342891
+ 10%|█         | 200/2000 [02:00<40:32,  1.35s/it]len(all_positive_trials) 343242
+ 10%|█         | 201/2000 [02:00<29:54,  1.00it/s]len(all_positive_trials) 343742
+ 10%|█         | 202/2000 [02:00<24:09,  1.24it/s]len(all_positive_trials) 344242
+ 10%|█         | 203/2000 [02:02<30:12,  1.01s/it]len(all_positive_trials) 344742
+ 10%|█         | 204/2000 [02:03<30:36,  1.02s/it]len(all_positive_trials) 345242
+ 10%|█         | 205/2000 [02:03<24:14,  1.23it/s]len(all_positive_trials) 345742
+ 10%|█         | 206/2000 [02:05<34:37,  1.16s/it]len(all_positive_trials) 346242
+ 10%|█         | 207/2000 [02:05<26:39,  1.12it/s]len(all_positive_trials) 346742
+ 10%|█         | 208/2000 [02:08<37:56,  1.27s/it]len(all_positive_trials) 347242
+ 10%|█         | 209/2000 [02:08<34:30,  1.16s/it]len(all_positive_trials) 347742
+ 10%|█         | 210/2000 [02:10<33:40,  1.13s/it]len(all_positive_trials) 348242
+ 11%|█         | 211/2000 [02:10<26:16,  1.13it/s]len(all_positive_trials) 348742
+ 11%|█         | 212/2000 [02:13<42:41,  1.43s/it]len(all_positive_trials) 349242
+ 11%|█         | 213/2000 [02:13<36:59,  1.24s/it]len(all_positive_trials) 349742
+ 11%|█         | 214/2000 [02:14<29:12,  1.02it/s]len(all_positive_trials) 350242
+ 11%|█         | 215/2000 [02:15<35:49,  1.20s/it]len(all_positive_trials) 350742
+ 11%|█         | 216/2000 [02:17<36:51,  1.24s/it]len(all_positive_trials) 351242
+ 11%|█         | 217/2000 [02:19<41:50,  1.41s/it]len(all_positive_trials) 351473
+ 11%|█         | 218/2000 [02:19<30:50,  1.04s/it]len(all_positive_trials) 351851
+ 11%|█         | 219/2000 [02:19<23:30,  1.26it/s]len(all_positive_trials) 352351
+ 11%|█         | 220/2000 [02:20<22:06,  1.34it/s]len(all_positive_trials) 352851
+ 11%|█         | 221/2000 [02:21<26:09,  1.13it/s]len(all_positive_trials) 353351
+ 11%|█         | 222/2000 [02:24<46:43,  1.58s/it]len(all_positive_trials) 353851
+ 11%|█         | 223/2000 [02:25<37:52,  1.28s/it]len(all_positive_trials) 354351
+ 11%|█         | 224/2000 [02:26<34:31,  1.17s/it]len(all_positive_trials) 354851
+ 11%|█▏        | 225/2000 [02:28<49:49,  1.68s/it]len(all_positive_trials) 355351
+ 11%|█▏        | 226/2000 [02:30<46:46,  1.58s/it]len(all_positive_trials) 355851
+ 11%|█▏        | 227/2000 [02:31<46:11,  1.56s/it]len(all_positive_trials) 356351
+ 11%|█▏        | 228/2000 [02:32<39:28,  1.34s/it]len(all_positive_trials) 356851
+ 11%|█▏        | 229/2000 [02:35<51:39,  1.75s/it]len(all_positive_trials) 357351
+ 12%|█▏        | 230/2000 [02:35<41:44,  1.41s/it]len(all_positive_trials) 357851
+ 12%|█▏        | 231/2000 [02:37<39:56,  1.35s/it]len(all_positive_trials) 358351
+ 12%|█▏        | 232/2000 [02:40<56:43,  1.93s/it]len(all_positive_trials) 358851
+ 12%|█▏        | 233/2000 [02:41<53:26,  1.81s/it]len(all_positive_trials) 359286
+ 12%|█▏        | 234/2000 [02:42<39:33,  1.34s/it]len(all_positive_trials) 359786
+ 12%|█▏        | 235/2000 [02:45<55:14,  1.88s/it]len(all_positive_trials) 360286
+ 12%|█▏        | 236/2000 [02:45<43:54,  1.49s/it]len(all_positive_trials) 360786
+ 12%|█▏        | 237/2000 [02:49<1:00:29,  2.06s/it]len(all_positive_trials) 361286
+ 12%|█▏        | 238/2000 [02:51<59:17,  2.02s/it]  len(all_positive_trials) 361786
+ 12%|█▏        | 239/2000 [02:51<45:39,  1.56s/it]len(all_positive_trials) 362286
+ 12%|█▏        | 240/2000 [02:53<43:37,  1.49s/it]len(all_positive_trials) 362786
+ 12%|█▏        | 241/2000 [02:54<43:18,  1.48s/it]len(all_positive_trials) 363286
+ 12%|█▏        | 242/2000 [02:55<38:32,  1.32s/it]len(all_positive_trials) 363786
+ 12%|█▏        | 243/2000 [02:55<30:58,  1.06s/it]len(all_positive_trials) 364286
+ 12%|█▏        | 244/2000 [02:57<33:26,  1.14s/it]len(all_positive_trials) 364786
+ 12%|█▏        | 245/2000 [02:58<38:05,  1.30s/it]len(all_positive_trials) 365286
+ 12%|█▏        | 246/2000 [03:00<40:29,  1.38s/it]len(all_positive_trials) 365786
+ 12%|█▏        | 247/2000 [03:02<41:58,  1.44s/it]len(all_positive_trials) 366286
+ 12%|█▏        | 248/2000 [03:03<39:44,  1.36s/it]len(all_positive_trials) 366786
+ 12%|█▏        | 249/2000 [03:04<43:21,  1.49s/it]len(all_positive_trials) 367286
+ 12%|█▎        | 250/2000 [03:07<48:20,  1.66s/it]len(all_positive_trials) 367786
+ 13%|█▎        | 251/2000 [03:08<48:10,  1.65s/it]len(all_positive_trials) 368286
+ 13%|█▎        | 252/2000 [03:09<39:08,  1.34s/it]len(all_positive_trials) 368786
+ 13%|█▎        | 253/2000 [03:10<38:01,  1.31s/it]len(all_positive_trials) 369286
+ 13%|█▎        | 254/2000 [03:12<40:19,  1.39s/it]len(all_positive_trials) 369786
+ 13%|█▎        | 255/2000 [03:14<52:58,  1.82s/it]len(all_positive_trials) 370286
+ 13%|█▎        | 256/2000 [03:16<53:36,  1.84s/it]len(all_positive_trials) 370786
+ 13%|█▎        | 257/2000 [03:17<47:32,  1.64s/it]len(all_positive_trials) 371286
+ 13%|█▎        | 258/2000 [03:18<37:12,  1.28s/it]len(all_positive_trials) 371496
+ 13%|█▎        | 259/2000 [03:18<27:56,  1.04it/s]len(all_positive_trials) 371996
+ 13%|█▎        | 260/2000 [03:19<29:56,  1.03s/it]len(all_positive_trials) 372496
+ 13%|█▎        | 261/2000 [03:21<39:11,  1.35s/it]len(all_positive_trials) 372821
+ 13%|█▎        | 262/2000 [03:22<29:29,  1.02s/it]len(all_positive_trials) 373321
+ 13%|█▎        | 263/2000 [03:26<54:38,  1.89s/it]len(all_positive_trials) 373821
+ 13%|█▎        | 264/2000 [03:26<43:16,  1.50s/it]len(all_positive_trials) 374321
+ 13%|█▎        | 265/2000 [03:27<33:51,  1.17s/it]len(all_positive_trials) 374821
+ 13%|█▎        | 266/2000 [03:28<37:18,  1.29s/it]len(all_positive_trials) 375321
+ 13%|█▎        | 267/2000 [03:29<36:55,  1.28s/it]len(all_positive_trials) 375821
+ 13%|█▎        | 268/2000 [03:32<47:34,  1.65s/it]len(all_positive_trials) 376321
+ 13%|█▎        | 269/2000 [03:35<59:02,  2.05s/it]len(all_positive_trials) 376821
+ 14%|█▎        | 270/2000 [03:38<1:10:24,  2.44s/it]len(all_positive_trials) 377321
+ 14%|█▎        | 271/2000 [03:40<1:06:10,  2.30s/it]len(all_positive_trials) 377821
+ 14%|█▎        | 272/2000 [03:42<58:01,  2.01s/it]  len(all_positive_trials) 378321
+ 14%|█▎        | 273/2000 [03:43<50:24,  1.75s/it]len(all_positive_trials) 378821
+ 14%|█▎        | 274/2000 [03:43<40:59,  1.42s/it]len(all_positive_trials) 379321
+ 14%|█▍        | 275/2000 [03:45<41:39,  1.45s/it]len(all_positive_trials) 379821
+ 14%|█▍        | 276/2000 [03:46<38:06,  1.33s/it]len(all_positive_trials) 380321
+ 14%|█▍        | 277/2000 [03:49<53:51,  1.88s/it]len(all_positive_trials) 380821
+ 14%|█▍        | 278/2000 [03:49<40:29,  1.41s/it]len(all_positive_trials) 381321
+ 14%|█▍        | 279/2000 [03:52<54:22,  1.90s/it]len(all_positive_trials) 381821
+ 14%|█▍        | 280/2000 [03:55<1:00:27,  2.11s/it]len(all_positive_trials) 382321
+ 14%|█▍        | 281/2000 [03:57<54:59,  1.92s/it]  len(all_positive_trials) 382646
+ 14%|█▍        | 282/2000 [03:57<40:33,  1.42s/it]len(all_positive_trials) 383146
+ 14%|█▍        | 283/2000 [03:59<50:22,  1.76s/it]len(all_positive_trials) 383646
+ 14%|█▍        | 284/2000 [04:00<40:08,  1.40s/it]len(all_positive_trials) 384146
+ 14%|█▍        | 285/2000 [04:00<31:17,  1.09s/it]len(all_positive_trials) 384646
+ 14%|█▍        | 286/2000 [04:02<32:41,  1.14s/it]len(all_positive_trials) 385146
+ 14%|█▍        | 287/2000 [04:06<1:00:50,  2.13s/it]len(all_positive_trials) 385646
+ 14%|█▍        | 288/2000 [04:07<48:30,  1.70s/it]  len(all_positive_trials) 386146
+ 14%|█▍        | 289/2000 [04:08<45:42,  1.60s/it]len(all_positive_trials) 386646
+ 14%|█▍        | 290/2000 [04:12<1:02:17,  2.19s/it]len(all_positive_trials) 387146
+ 15%|█▍        | 291/2000 [04:14<1:08:20,  2.40s/it]len(all_positive_trials) 387646
+ 15%|█▍        | 292/2000 [04:17<1:06:17,  2.33s/it]len(all_positive_trials) 388146
+ 15%|█▍        | 293/2000 [04:18<57:24,  2.02s/it]  len(all_positive_trials) 388646
+ 15%|█▍        | 294/2000 [04:21<1:04:28,  2.27s/it]len(all_positive_trials) 389146
+ 15%|█▍        | 295/2000 [04:23<1:01:01,  2.15s/it]len(all_positive_trials) 389646
+ 15%|█▍        | 296/2000 [04:24<54:34,  1.92s/it]  len(all_positive_trials) 390146
+ 15%|█▍        | 297/2000 [04:27<1:01:58,  2.18s/it]len(all_positive_trials) 390611
+ 15%|█▍        | 298/2000 [04:27<46:24,  1.64s/it]  len(all_positive_trials) 391111
+ 15%|█▍        | 299/2000 [04:28<42:11,  1.49s/it]len(all_positive_trials) 391611
+ 15%|█▌        | 300/2000 [04:30<46:28,  1.64s/it]len(all_positive_trials) 392111
+ 15%|█▌        | 301/2000 [04:33<53:23,  1.89s/it]len(all_positive_trials) 392611
+ 15%|█▌        | 302/2000 [04:34<46:15,  1.63s/it]len(all_positive_trials) 393111
+ 15%|█▌        | 303/2000 [04:34<36:37,  1.29s/it]len(all_positive_trials) 393611
+ 15%|█▌        | 304/2000 [04:37<48:57,  1.73s/it]len(all_positive_trials) 394111
+ 15%|█▌        | 305/2000 [04:38<45:41,  1.62s/it]len(all_positive_trials) 394611
+ 15%|█▌        | 306/2000 [04:40<41:55,  1.48s/it]len(all_positive_trials) 395111
+ 15%|█▌        | 307/2000 [04:40<32:29,  1.15s/it]len(all_positive_trials) 395611
+ 15%|█▌        | 308/2000 [04:41<33:30,  1.19s/it]len(all_positive_trials) 396111
+ 15%|█▌        | 309/2000 [04:44<46:08,  1.64s/it]len(all_positive_trials) 396611
+ 16%|█▌        | 310/2000 [04:45<38:25,  1.36s/it]len(all_positive_trials) 397111
+ 16%|█▌        | 311/2000 [04:46<33:51,  1.20s/it]len(all_positive_trials) 397611
+ 16%|█▌        | 312/2000 [04:48<48:25,  1.72s/it]len(all_positive_trials) 398111
+ 16%|█▌        | 313/2000 [04:49<37:16,  1.33s/it]len(all_positive_trials) 398364
+ 16%|█▌        | 314/2000 [04:49<28:14,  1.01s/it]len(all_positive_trials) 398715
+ 16%|█▌        | 315/2000 [04:49<22:21,  1.26it/s]len(all_positive_trials) 399215
+ 16%|█▌        | 316/2000 [04:50<20:59,  1.34it/s]len(all_positive_trials) 399715
+ 16%|█▌        | 317/2000 [04:52<31:08,  1.11s/it]len(all_positive_trials) 400215
+ 16%|█▌        | 318/2000 [04:55<49:04,  1.75s/it]len(all_positive_trials) 400715
+ 16%|█▌        | 319/2000 [04:56<42:02,  1.50s/it]len(all_positive_trials) 401215
+ 16%|█▌        | 320/2000 [04:57<32:47,  1.17s/it]len(all_positive_trials) 401491
+ 16%|█▌        | 321/2000 [04:57<25:19,  1.10it/s]len(all_positive_trials) 401991
+ 16%|█▌        | 322/2000 [04:58<29:13,  1.05s/it]len(all_positive_trials) 402397
+ 16%|█▌        | 323/2000 [04:59<23:08,  1.21it/s]len(all_positive_trials) 402897
+ 16%|█▌        | 324/2000 [05:02<42:03,  1.51s/it]len(all_positive_trials) 403397
+ 16%|█▋        | 325/2000 [05:02<36:10,  1.30s/it]len(all_positive_trials) 403897
+ 16%|█▋        | 326/2000 [05:05<46:12,  1.66s/it]len(all_positive_trials) 404393
+ 16%|█▋        | 327/2000 [05:05<35:14,  1.26s/it]len(all_positive_trials) 404893
+ 16%|█▋        | 328/2000 [05:08<48:43,  1.75s/it]len(all_positive_trials) 405393
+ 16%|█▋        | 329/2000 [05:11<59:56,  2.15s/it]len(all_positive_trials) 405893
+ 16%|█▋        | 330/2000 [05:12<47:48,  1.72s/it]len(all_positive_trials) 406393
+ 17%|█▋        | 331/2000 [05:13<38:21,  1.38s/it]len(all_positive_trials) 406893
+ 17%|█▋        | 332/2000 [05:15<45:10,  1.63s/it]len(all_positive_trials) 407393
+ 17%|█▋        | 333/2000 [05:16<45:02,  1.62s/it]len(all_positive_trials) 407893
+ 17%|█▋        | 334/2000 [05:17<39:08,  1.41s/it]len(all_positive_trials) 408393
+ 17%|█▋        | 335/2000 [05:18<34:20,  1.24s/it]len(all_positive_trials) 408893
+ 17%|█▋        | 336/2000 [05:20<39:44,  1.43s/it]len(all_positive_trials) 409393
+ 17%|█▋        | 337/2000 [05:25<1:07:56,  2.45s/it]len(all_positive_trials) 409893
+ 17%|█▋        | 338/2000 [05:27<1:06:58,  2.42s/it]len(all_positive_trials) 410393
+ 17%|█▋        | 339/2000 [05:29<1:01:38,  2.23s/it]len(all_positive_trials) 410893
+ 17%|█▋        | 340/2000 [05:32<1:08:46,  2.49s/it]len(all_positive_trials) 411393
+ 17%|█▋        | 341/2000 [05:36<1:18:44,  2.85s/it]len(all_positive_trials) 411893
+ 17%|█▋        | 342/2000 [05:36<59:28,  2.15s/it]  len(all_positive_trials) 412393
+ 17%|█▋        | 343/2000 [05:38<53:15,  1.93s/it]len(all_positive_trials) 412893
+ 17%|█▋        | 344/2000 [05:39<49:50,  1.81s/it]len(all_positive_trials) 413393
+ 17%|█▋        | 345/2000 [05:41<49:16,  1.79s/it]len(all_positive_trials) 413893
+ 17%|█▋        | 346/2000 [05:43<53:31,  1.94s/it]len(all_positive_trials) 414393
+ 17%|█▋        | 347/2000 [05:48<1:13:58,  2.69s/it]len(all_positive_trials) 414893
+ 17%|█▋        | 348/2000 [05:48<56:10,  2.04s/it]  len(all_positive_trials) 415393
+ 17%|█▋        | 349/2000 [05:50<53:20,  1.94s/it]len(all_positive_trials) 415893
+ 18%|█▊        | 350/2000 [05:51<44:01,  1.60s/it]len(all_positive_trials) 416393
+ 18%|█▊        | 351/2000 [05:51<35:22,  1.29s/it]len(all_positive_trials) 416744
+ 18%|█▊        | 352/2000 [05:52<27:49,  1.01s/it]len(all_positive_trials) 417244
+ 18%|█▊        | 353/2000 [05:55<44:27,  1.62s/it]len(all_positive_trials) 417744
+ 18%|█▊        | 354/2000 [05:56<44:02,  1.61s/it]len(all_positive_trials) 418244
+ 18%|█▊        | 355/2000 [05:57<39:21,  1.44s/it]len(all_positive_trials) 418679
+ 18%|█▊        | 356/2000 [05:58<30:45,  1.12s/it]len(all_positive_trials) 419179
+ 18%|█▊        | 357/2000 [05:58<26:29,  1.03it/s]len(all_positive_trials) 419679
+ 18%|█▊        | 358/2000 [06:01<37:45,  1.38s/it]len(all_positive_trials) 420179
+ 18%|█▊        | 359/2000 [06:01<30:54,  1.13s/it]len(all_positive_trials) 420679
+ 18%|█▊        | 360/2000 [06:02<28:32,  1.04s/it]len(all_positive_trials) 421179
+ 18%|█▊        | 361/2000 [06:06<55:23,  2.03s/it]len(all_positive_trials) 421679
+ 18%|█▊        | 362/2000 [06:07<43:56,  1.61s/it]len(all_positive_trials) 421910
+ 18%|█▊        | 363/2000 [06:07<32:51,  1.20s/it]len(all_positive_trials) 422410
+ 18%|█▊        | 364/2000 [06:08<31:21,  1.15s/it]len(all_positive_trials) 422910
+ 18%|█▊        | 365/2000 [06:14<1:05:14,  2.39s/it]len(all_positive_trials) 423410
+ 18%|█▊        | 366/2000 [06:18<1:19:28,  2.92s/it]len(all_positive_trials) 423910
+ 18%|█▊        | 367/2000 [06:18<1:01:16,  2.25s/it]len(all_positive_trials) 424410
+ 18%|█▊        | 368/2000 [06:24<1:28:10,  3.24s/it]len(all_positive_trials) 424910
+ 18%|█▊        | 369/2000 [06:28<1:37:09,  3.57s/it]len(all_positive_trials) 425410
+ 18%|█▊        | 370/2000 [06:30<1:22:35,  3.04s/it]len(all_positive_trials) 425910
+ 19%|█▊        | 371/2000 [06:31<1:09:11,  2.55s/it]len(all_positive_trials) 426410
+ 19%|█▊        | 372/2000 [06:36<1:24:24,  3.11s/it]len(all_positive_trials) 426910
+ 19%|█▊        | 373/2000 [06:41<1:42:53,  3.79s/it]len(all_positive_trials) 427410
+ 19%|█▊        | 374/2000 [06:42<1:18:19,  2.89s/it]len(all_positive_trials) 427910
+ 19%|█▉        | 375/2000 [06:43<1:02:48,  2.32s/it]len(all_positive_trials) 428410
+ 19%|█▉        | 376/2000 [06:45<57:52,  2.14s/it]  len(all_positive_trials) 428910
+ 19%|█▉        | 377/2000 [06:46<54:20,  2.01s/it]len(all_positive_trials) 429410
+ 19%|█▉        | 378/2000 [06:49<56:53,  2.10s/it]len(all_positive_trials) 429910
+ 19%|█▉        | 379/2000 [06:51<1:00:23,  2.24s/it]len(all_positive_trials) 430410
+ 19%|█▉        | 380/2000 [06:54<1:01:40,  2.28s/it]len(all_positive_trials) 430735
+ 19%|█▉        | 381/2000 [06:54<46:08,  1.71s/it]  len(all_positive_trials) 431235
+ 19%|█▉        | 382/2000 [06:58<1:01:57,  2.30s/it]len(all_positive_trials) 431735
+ 19%|█▉        | 383/2000 [07:01<1:07:21,  2.50s/it]len(all_positive_trials) 432235
+ 19%|█▉        | 384/2000 [07:03<1:08:02,  2.53s/it]len(all_positive_trials) 432735
+ 19%|█▉        | 385/2000 [07:06<1:10:39,  2.63s/it]len(all_positive_trials) 433235
+ 19%|█▉        | 386/2000 [07:10<1:19:57,  2.97s/it]len(all_positive_trials) 433735
+ 19%|█▉        | 387/2000 [07:12<1:15:58,  2.83s/it]len(all_positive_trials) 434235
+ 19%|█▉        | 388/2000 [07:14<1:05:19,  2.43s/it]len(all_positive_trials) 434735
+ 19%|█▉        | 389/2000 [07:15<53:08,  1.98s/it]  len(all_positive_trials) 435235
+ 20%|█▉        | 390/2000 [07:18<1:04:53,  2.42s/it]len(all_positive_trials) 435488
+ 20%|█▉        | 391/2000 [07:19<48:01,  1.79s/it]  len(all_positive_trials) 435988
+ 20%|█▉        | 392/2000 [07:22<1:01:14,  2.29s/it]len(all_positive_trials) 436488
+ 20%|█▉        | 393/2000 [07:24<1:01:06,  2.28s/it]len(all_positive_trials) 436988
+ 20%|█▉        | 394/2000 [07:26<59:41,  2.23s/it]  len(all_positive_trials) 437488
+ 20%|█▉        | 395/2000 [07:30<1:10:26,  2.63s/it]len(all_positive_trials) 437988
+ 20%|█▉        | 396/2000 [07:32<1:03:33,  2.38s/it]len(all_positive_trials) 438488
+ 20%|█▉        | 397/2000 [07:32<48:33,  1.82s/it]  len(all_positive_trials) 438988
+ 20%|█▉        | 398/2000 [07:36<59:38,  2.23s/it]len(all_positive_trials) 439488
+ 20%|█▉        | 399/2000 [07:38<1:04:30,  2.42s/it]len(all_positive_trials) 439988
+ 20%|██        | 400/2000 [07:44<1:26:12,  3.23s/it]len(all_positive_trials) 440488
+ 20%|██        | 401/2000 [07:50<1:48:04,  4.06s/it]len(all_positive_trials) 440988
+ 20%|██        | 402/2000 [07:50<1:20:39,  3.03s/it]len(all_positive_trials) 441488
+ 20%|██        | 403/2000 [07:51<1:06:47,  2.51s/it]len(all_positive_trials) 441988
+ 20%|██        | 404/2000 [07:58<1:36:43,  3.64s/it]len(all_positive_trials) 442488
+ 20%|██        | 405/2000 [08:02<1:41:15,  3.81s/it]len(all_positive_trials) 442988
+ 20%|██        | 406/2000 [08:06<1:42:06,  3.84s/it]len(all_positive_trials) 443488
+ 20%|██        | 407/2000 [08:07<1:17:18,  2.91s/it]len(all_positive_trials) 443988
+ 20%|██        | 408/2000 [08:07<59:17,  2.23s/it]  len(all_positive_trials) 444488
+ 20%|██        | 409/2000 [08:08<49:10,  1.85s/it]len(all_positive_trials) 444988
+ 20%|██        | 410/2000 [08:10<49:57,  1.89s/it]len(all_positive_trials) 445488
+ 21%|██        | 411/2000 [08:12<50:52,  1.92s/it]len(all_positive_trials) 445988
+ 21%|██        | 412/2000 [08:16<1:09:11,  2.61s/it]len(all_positive_trials) 446488
+ 21%|██        | 413/2000 [08:18<1:03:37,  2.41s/it]len(all_positive_trials) 446988
+ 21%|██        | 414/2000 [08:21<1:05:42,  2.49s/it]len(all_positive_trials) 447488
+ 21%|██        | 415/2000 [08:24<1:11:08,  2.69s/it]len(all_positive_trials) 447988
+ 21%|██        | 416/2000 [08:25<56:32,  2.14s/it]  len(all_positive_trials) 448488
+ 21%|██        | 417/2000 [08:31<1:25:24,  3.24s/it]len(all_positive_trials) 448988
+ 21%|██        | 418/2000 [08:33<1:14:22,  2.82s/it]len(all_positive_trials) 449488
+ 21%|██        | 419/2000 [08:35<1:07:34,  2.56s/it]len(all_positive_trials) 449988
+ 21%|██        | 420/2000 [08:38<1:09:57,  2.66s/it]len(all_positive_trials) 450488
+ 21%|██        | 421/2000 [08:41<1:17:26,  2.94s/it]len(all_positive_trials) 450988
+ 21%|██        | 422/2000 [08:48<1:45:46,  4.02s/it]len(all_positive_trials) 451488
+ 21%|██        | 423/2000 [08:53<1:55:56,  4.41s/it]len(all_positive_trials) 451988
+ 21%|██        | 424/2000 [09:00<2:14:30,  5.12s/it]len(all_positive_trials) 452488
+ 21%|██▏       | 425/2000 [09:01<1:46:27,  4.06s/it]len(all_positive_trials) 452988
+ 21%|██▏       | 426/2000 [09:04<1:33:53,  3.58s/it]len(all_positive_trials) 453488
+ 21%|██▏       | 427/2000 [09:06<1:19:38,  3.04s/it]len(all_positive_trials) 453988
+ 21%|██▏       | 428/2000 [09:06<1:02:20,  2.38s/it]len(all_positive_trials) 454453
+ 21%|██▏       | 429/2000 [09:07<48:09,  1.84s/it]  len(all_positive_trials) 454953
+ 22%|██▏       | 430/2000 [09:09<46:49,  1.79s/it]len(all_positive_trials) 455453
+ 22%|██▏       | 431/2000 [09:09<36:58,  1.41s/it]len(all_positive_trials) 455953
+ 22%|██▏       | 432/2000 [09:14<1:05:10,  2.49s/it]len(all_positive_trials) 456453
+ 22%|██▏       | 433/2000 [09:16<1:02:27,  2.39s/it]len(all_positive_trials) 456953
+ 22%|██▏       | 434/2000 [09:18<53:32,  2.05s/it]  len(all_positive_trials) 457453
+ 22%|██▏       | 435/2000 [09:19<49:53,  1.91s/it]len(all_positive_trials) 457953
+ 22%|██▏       | 436/2000 [09:24<1:14:14,  2.85s/it]len(all_positive_trials) 458453
+ 22%|██▏       | 437/2000 [09:30<1:33:58,  3.61s/it]len(all_positive_trials) 458953
+ 22%|██▏       | 438/2000 [09:36<1:58:42,  4.56s/it]len(all_positive_trials) 459453
+ 22%|██▏       | 439/2000 [09:37<1:29:09,  3.43s/it]len(all_positive_trials) 459953
+ 22%|██▏       | 440/2000 [09:40<1:26:23,  3.32s/it]len(all_positive_trials) 460453
+ 22%|██▏       | 441/2000 [09:44<1:30:15,  3.47s/it]len(all_positive_trials) 460953
+ 22%|██▏       | 442/2000 [09:47<1:23:00,  3.20s/it]len(all_positive_trials) 461453
+ 22%|██▏       | 443/2000 [09:48<1:09:33,  2.68s/it]len(all_positive_trials) 461953
+ 22%|██▏       | 444/2000 [09:49<56:35,  2.18s/it]  len(all_positive_trials) 462453
+ 22%|██▏       | 445/2000 [09:50<45:23,  1.75s/it]len(all_positive_trials) 462953
+ 22%|██▏       | 446/2000 [09:55<1:11:45,  2.77s/it]len(all_positive_trials) 463453
+ 22%|██▏       | 447/2000 [09:56<1:01:19,  2.37s/it]len(all_positive_trials) 463953
+ 22%|██▏       | 448/2000 [10:02<1:23:33,  3.23s/it]len(all_positive_trials) 464453
+ 22%|██▏       | 449/2000 [10:03<1:07:38,  2.62s/it]len(all_positive_trials) 464953
+ 22%|██▎       | 450/2000 [10:05<1:06:03,  2.56s/it]len(all_positive_trials) 465453
+ 23%|██▎       | 451/2000 [10:08<1:03:20,  2.45s/it]len(all_positive_trials) 465953
+ 23%|██▎       | 452/2000 [10:13<1:28:20,  3.42s/it]len(all_positive_trials) 466453
+ 23%|██▎       | 453/2000 [10:15<1:12:58,  2.83s/it]len(all_positive_trials) 466953
+ 23%|██▎       | 454/2000 [10:19<1:25:53,  3.33s/it]len(all_positive_trials) 467453
+ 23%|██▎       | 455/2000 [10:26<1:52:25,  4.37s/it]len(all_positive_trials) 467953
+ 23%|██▎       | 456/2000 [10:28<1:35:41,  3.72s/it]len(all_positive_trials) 468453
+ 23%|██▎       | 457/2000 [10:30<1:21:59,  3.19s/it]len(all_positive_trials) 468953
+ 23%|██▎       | 458/2000 [10:34<1:25:58,  3.35s/it]len(all_positive_trials) 469453
+ 23%|██▎       | 459/2000 [10:41<1:56:59,  4.56s/it]len(all_positive_trials) 469953
+ 23%|██▎       | 460/2000 [10:47<2:06:56,  4.95s/it]len(all_positive_trials) 470453
+ 23%|██▎       | 461/2000 [10:52<2:04:11,  4.84s/it]len(all_positive_trials) 470953
+ 23%|██▎       | 462/2000 [10:57<2:10:36,  5.10s/it]len(all_positive_trials) 471453
+ 23%|██▎       | 463/2000 [11:00<1:51:58,  4.37s/it]len(all_positive_trials) 471953
+ 23%|██▎       | 464/2000 [11:02<1:31:59,  3.59s/it]len(all_positive_trials) 472453
+ 23%|██▎       | 465/2000 [11:06<1:33:59,  3.67s/it]len(all_positive_trials) 472953
+ 23%|██▎       | 466/2000 [11:10<1:37:21,  3.81s/it]len(all_positive_trials) 473453
+ 23%|██▎       | 467/2000 [11:13<1:36:10,  3.76s/it]len(all_positive_trials) 473953
+ 23%|██▎       | 468/2000 [11:14<1:15:18,  2.95s/it]len(all_positive_trials) 474453
+ 23%|██▎       | 469/2000 [11:21<1:41:34,  3.98s/it]len(all_positive_trials) 474953
+ 24%|██▎       | 470/2000 [11:23<1:27:51,  3.45s/it]len(all_positive_trials) 475453
+ 24%|██▎       | 471/2000 [11:26<1:23:09,  3.26s/it]len(all_positive_trials) 475663
+ 24%|██▎       | 472/2000 [11:26<1:01:10,  2.40s/it]len(all_positive_trials) 476163
+ 24%|██▎       | 473/2000 [11:29<1:04:54,  2.55s/it]len(all_positive_trials) 476663
+ 24%|██▎       | 474/2000 [11:30<53:53,  2.12s/it]  len(all_positive_trials) 477163
+ 24%|██▍       | 475/2000 [11:34<1:03:41,  2.51s/it]len(all_positive_trials) 477663
+ 24%|██▍       | 476/2000 [11:40<1:29:08,  3.51s/it]len(all_positive_trials) 478163
+ 24%|██▍       | 477/2000 [11:44<1:34:52,  3.74s/it]len(all_positive_trials) 478663
+ 24%|██▍       | 478/2000 [11:49<1:43:10,  4.07s/it]len(all_positive_trials) 479163
+ 24%|██▍       | 479/2000 [11:51<1:29:43,  3.54s/it]len(all_positive_trials) 479663
+ 24%|██▍       | 480/2000 [11:52<1:10:13,  2.77s/it]len(all_positive_trials) 480163
+ 24%|██▍       | 481/2000 [11:53<56:43,  2.24s/it]  len(all_positive_trials) 480663
+ 24%|██▍       | 482/2000 [11:56<1:01:32,  2.43s/it]len(all_positive_trials) 481163
+ 24%|██▍       | 483/2000 [11:57<52:32,  2.08s/it]  len(all_positive_trials) 481663
+ 24%|██▍       | 484/2000 [11:58<44:00,  1.74s/it]len(all_positive_trials) 482163
+ 24%|██▍       | 485/2000 [12:03<1:11:47,  2.84s/it]len(all_positive_trials) 482463
+ 24%|██▍       | 486/2000 [12:04<53:46,  2.13s/it]  len(all_positive_trials) 482963
+ 24%|██▍       | 487/2000 [12:05<44:09,  1.75s/it]len(all_positive_trials) 483463
+ 24%|██▍       | 488/2000 [12:08<53:28,  2.12s/it]len(all_positive_trials) 483963
+ 24%|██▍       | 489/2000 [12:10<52:43,  2.09s/it]len(all_positive_trials) 484463
+ 24%|██▍       | 490/2000 [12:14<1:11:35,  2.84s/it]len(all_positive_trials) 484963
+ 25%|██▍       | 491/2000 [12:16<1:04:20,  2.56s/it]len(all_positive_trials) 485463
+ 25%|██▍       | 492/2000 [12:22<1:26:17,  3.43s/it]len(all_positive_trials) 485963
+ 25%|██▍       | 493/2000 [12:23<1:11:29,  2.85s/it]len(all_positive_trials) 486463
+ 25%|██▍       | 494/2000 [12:29<1:36:22,  3.84s/it]len(all_positive_trials) 486963
+ 25%|██▍       | 495/2000 [12:33<1:31:06,  3.63s/it]len(all_positive_trials) 487463
+ 25%|██▍       | 496/2000 [12:33<1:10:18,  2.80s/it]len(all_positive_trials) 487963
+ 25%|██▍       | 497/2000 [12:42<1:53:06,  4.52s/it]len(all_positive_trials) 488463
+ 25%|██▍       | 498/2000 [12:43<1:25:23,  3.41s/it]len(all_positive_trials) 488963
+ 25%|██▍       | 499/2000 [12:46<1:26:36,  3.46s/it]len(all_positive_trials) 489194
+ 25%|██▌       | 500/2000 [12:47<1:04:11,  2.57s/it]len(all_positive_trials) 489694
+ 25%|██▌       | 501/2000 [12:51<1:18:41,  3.15s/it] 25%|██▌       | 501/2000 [12:53<38:35,  1.54s/it]  
+Traceback (most recent call last):
+  File "generate_train_list_mlp_f1m9.py", line 71, in <module>
+    all_positive_trials, all_negative_trials = get_all_pairs(all_positive_trials, all_negative_trials, speakers_m, speakers_f, num_trials)
+  File "generate_train_list_mlp_f1m9.py", line 58, in get_all_pairs
+    utts3 = spk_utts[speakers_g2[s2]]
+IndexError: list index out of range
