@@ -40,7 +40,7 @@ The <strong>VoxCeleb1-F</strong> (Fairness-Hard) test dataset controls more stri
     <td class="tg-fymr" style="width: 10%;">[All]</td>
     <td class="tg-fymr" style="width: 10%;">[F]</td>
     <td class="tg-fymr" style="width: 10%;">[M]</td>
-    <td class="tg-fymr" >[All]</td>
+    <td class="tg-fymr" style="width: 10%;">[All]</td>
   </tr>
   <tr>
     <td class="tg-fymr"><strong>Positive F-F</strong></td>
@@ -102,7 +102,7 @@ The <strong>VoxCeleb1-F</strong> (Fairness-Hard) test dataset controls more stri
 
 The supportive table for Figure 2 in the paper.
 
-<style type="text/css">
+<!-- <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -112,7 +112,8 @@ The supportive table for Figure 2 in the paper.
 .tg .tg-aldk{background-color:#FFF;color:#24292F;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-xao6{background-color:#FFF;color:#24292F;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-cwad{background-color:#FFF;color:#24292F;text-align:left;vertical-align:middle}
-</style>
+</style> -->
+
 <table class="tg">
 <thead>
   <tr>
@@ -144,7 +145,7 @@ The supportive table for Figure 2 in the paper.
     <td class="tg-l1d2"><span style="font-weight:600">GFN</span></td>
   </tr>
   <tr>
-    <td class="tg-l1d2"><span style="font-weight:600">EER[F]</span></td>
+    <td class="tg-l1d2"><span style="font-weight:600"><strong>EER[F]</span></td>
     <td class="tg-cwad">3.52</td>
     <td class="tg-cwad">3.35</td>
     <td class="tg-l1d2"><span style="font-weight:600">3.12</span></td>
@@ -162,7 +163,7 @@ The supportive table for Figure 2 in the paper.
     <td class="tg-l1d2"><span style="font-weight:600">5.53</span></td>
   </tr>
   <tr>
-    <td class="tg-l1d2"><span style="font-weight:600">EER[M]</span></td>
+    <td class="tg-l1d2"><span style="font-weight:600"><strong>EER[M]</span></td>
     <td class="tg-cwad">7.22</td>
     <td class="tg-cwad">6.81</td>
     <td class="tg-l1d2"><span style="font-weight:600">5.88</span></td>
@@ -180,7 +181,7 @@ The supportive table for Figure 2 in the paper.
     <td class="tg-l1d2"><span style="font-weight:600">3.30</span></td>
   </tr>
   <tr>
-    <td class="tg-l1d2"><span style="font-weight:600">EER[All]</span></td>
+    <td class="tg-l1d2"><span style="font-weight:600"><strong>EER[All]</span></td>
     <td class="tg-cwad">6.78</td>
     <td class="tg-cwad">6.46</td>
     <td class="tg-l1d2"><span style="font-weight:600">5.84</span></td>
@@ -198,7 +199,7 @@ The supportive table for Figure 2 in the paper.
     <td class="tg-l1d2"><span style="font-weight:600">5.08</span></td>
   </tr>
   <tr>
-    <td class="tg-l1d2"><span style="font-weight:600">DS</span></td>
+    <td class="tg-l1d2"><span style="font-weight:600"><strong>DS</span></td>
     <td class="tg-cwad">3.70</td>
     <td class="tg-cwad">3.46</td>
     <td class="tg-l1d2"><span style="font-weight:600">2.76</span></td>
@@ -221,7 +222,7 @@ The supportive table for Figure 2 in the paper.
 
 The supportive table for Figure 4 in the paper.
 
-<style type="text/css">
+<!-- <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -231,7 +232,8 @@ The supportive table for Figure 4 in the paper.
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
+</style> -->
+
 <table class="tg">
 <thead>
   <tr>
@@ -261,7 +263,7 @@ The supportive table for Figure 4 in the paper.
     <td class="tg-amwm">GFN</td>
   </tr>
   <tr>
-    <td class="tg-cly1">EER[F]</td>
+    <td class="tg-cly1"><strong>EER[F]</td>
     <td class="tg-nrix">9.07</td>
     <td class="tg-nrix">3.65</td>
     <td class="tg-nrix">9.32</td>
@@ -279,7 +281,7 @@ The supportive table for Figure 4 in the paper.
     <td class="tg-amwm">5.53</td>
   </tr>
   <tr>
-    <td class="tg-cly1">EER[M]</td>
+    <td class="tg-cly1"><strong>EER[M]</td>
     <td class="tg-nrix">8.03</td>
     <td class="tg-nrix">10.65</td>
     <td class="tg-nrix">6.78</td>
@@ -297,7 +299,7 @@ The supportive table for Figure 4 in the paper.
     <td class="tg-amwm">3.30</td>
   </tr>
   <tr>
-    <td class="tg-cly1">EER[All]</td>
+    <td class="tg-cly1"><strong>EER[All]</td>
     <td class="tg-nrix">13.38</td>
     <td class="tg-nrix">10.63</td>
     <td class="tg-nrix">15.63</td>
@@ -315,7 +317,7 @@ The supportive table for Figure 4 in the paper.
     <td class="tg-amwm">5.08</td>
   </tr>
   <tr>
-    <td class="tg-cly1">DS</td>
+    <td class="tg-cly1"><strong>DS</td>
     <td class="tg-nrix">1.04</td>
     <td class="tg-nrix">7.00</td>
     <td class="tg-nrix">2.54</td>
