@@ -118,7 +118,7 @@ The supportive table for Figure 2 in the paper.
     <th class="tg-8d8j"></th>
     <th class="tg-bobw" colspan="3">F9M1</th>
     <th class="tg-bobw" colspan="3">F4M1</th>
-    <th class="tg-bobw" colspan="3"></th>
+    <th class="tg-bobw" colspan="3">F1M1</th>
     <th class="tg-bobw" colspan="3">F1M4</th>
     <th class="tg-bobw" colspan="3">F1M9</th>
   </tr>
