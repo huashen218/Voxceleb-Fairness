@@ -143,7 +143,7 @@ The supportive table for Figure 2 in the paper.
     <td class="tg-8d8j">GFN</td>
   </tr>
   <tr>
-    <td class="tg-bobw">EER[F]</td>
+    <td class="tg-bobw"><strong>EER[F]</td>
     <td class="tg-8d8j">3.52</td>
     <td class="tg-8d8j">3.35</td>
     <td class="tg-8d8j">3.12<br>(-11.36%)</td>
@@ -161,7 +161,7 @@ The supportive table for Figure 2 in the paper.
     <td class="tg-8d8j">5.53 <br>(-15.05%)</td>
   </tr>
   <tr>
-    <td class="tg-bobw">EER[M]</td>
+    <td class="tg-bobw"><strong>EER[M]</td>
     <td class="tg-8d8j">7.22</td>
     <td class="tg-8d8j">6.81</td>
     <td class="tg-8d8j">5.88<br>(-18.56%)</td>
@@ -179,7 +179,7 @@ The supportive table for Figure 2 in the paper.
     <td class="tg-8d8j">3.30 <br>(-7.56%)</td>
   </tr>
   <tr>
-    <td class="tg-bobw">EER[All]</td>
+    <td class="tg-bobw"><strong>EER[All]</td>
     <td class="tg-8d8j">6.78</td>
     <td class="tg-8d8j">6.46</td>
     <td class="tg-8d8j">5.84 <br>(-13.86%)</td>
@@ -197,7 +197,7 @@ The supportive table for Figure 2 in the paper.
     <td class="tg-8d8j">5.08 <br>(-28.55%)</td>
   </tr>
   <tr>
-    <td class="tg-bobw">DS</td>
+    <td class="tg-bobw"><strong>DS</td>
     <td class="tg-8d8j">3.7</td>
     <td class="tg-8d8j">3.46</td>
     <td class="tg-8d8j">2.76 <br>(-25.41%)</td>
