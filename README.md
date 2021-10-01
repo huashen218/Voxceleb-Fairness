@@ -108,27 +108,17 @@ The supportive table for Figure 2 in the paper.
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l1d2{background-color:#FFF;color:#24292F;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-aldk{background-color:#FFF;color:#24292F;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-xao6{background-color:#FFF;color:#24292F;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-cwad{background-color:#FFF;color:#24292F;text-align:left;vertical-align:middle}
-</style> -->
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-bobw{font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-8d8j{text-align:center;vertical-align:bottom}
-</style>
+</style> -->
+
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-8d8j"></th>
     <th class="tg-bobw" colspan="3">F9M1</th>
     <th class="tg-bobw" colspan="3">F4M1</th>
-    <th class="tg-bobw" colspan="3">F1M1</th>
+    <th class="tg-bobw" colspan="3"></th>
     <th class="tg-bobw" colspan="3">F1M4</th>
     <th class="tg-bobw" colspan="3">F1M9</th>
   </tr>
@@ -156,73 +146,73 @@ The supportive table for Figure 2 in the paper.
     <td class="tg-bobw">EER[F]</td>
     <td class="tg-8d8j">3.52</td>
     <td class="tg-8d8j">3.35</td>
-    <td class="tg-8d8j">3.12 (-11.36%)</td>
+    <td class="tg-8d8j">3.12<br>(-11.36%)</td>
     <td class="tg-8d8j">3.48</td>
     <td class="tg-8d8j">3.63</td>
-    <td class="tg-8d8j">3.07 (-11.78%)</td>
+    <td class="tg-8d8j">3.07 <br>(-11.78%)</td>
     <td class="tg-8d8j">4.15</td>
     <td class="tg-8d8j">3.8</td>
-    <td class="tg-8d8j">3.65 (-12.05%)</td>
+    <td class="tg-8d8j">3.65 <br>(-12.05%)</td>
     <td class="tg-8d8j">5.61</td>
     <td class="tg-8d8j">5.42</td>
-    <td class="tg-8d8j">4.92 (-12.30%)</td>
+    <td class="tg-8d8j">4.92 <br>(-12.30%)</td>
     <td class="tg-8d8j">6.51</td>
     <td class="tg-8d8j">6.25</td>
-    <td class="tg-8d8j">5.53 (-15.05%)</td>
+    <td class="tg-8d8j">5.53 <br>(-15.05%)</td>
   </tr>
   <tr>
     <td class="tg-bobw">EER[M]</td>
     <td class="tg-8d8j">7.22</td>
     <td class="tg-8d8j">6.81</td>
-    <td class="tg-8d8j">5.88 (-18.56%)</td>
+    <td class="tg-8d8j">5.88<br>(-18.56%)</td>
     <td class="tg-8d8j">5.71</td>
     <td class="tg-8d8j">5.49</td>
-    <td class="tg-8d8j">5.12 (-10.33%)</td>
+    <td class="tg-8d8j">5.12 <br>(-10.33%)</td>
     <td class="tg-8d8j">4.27</td>
     <td class="tg-8d8j">4.07</td>
-    <td class="tg-8d8j">4.00 (-6.32%)</td>
+    <td class="tg-8d8j">4.00 <br>(-6.32%)</td>
     <td class="tg-8d8j">3.9</td>
     <td class="tg-8d8j">3.65</td>
-    <td class="tg-8d8j">3.82 (-2.05%)</td>
+    <td class="tg-8d8j">3.82 <br>(-2.05%)</td>
     <td class="tg-8d8j">3.57</td>
     <td class="tg-8d8j">3.42</td>
-    <td class="tg-8d8j">3.30 (-7.56%)</td>
+    <td class="tg-8d8j">3.30 <br>(-7.56%)</td>
   </tr>
   <tr>
     <td class="tg-bobw">EER[All]</td>
     <td class="tg-8d8j">6.78</td>
     <td class="tg-8d8j">6.46</td>
-    <td class="tg-8d8j">5.84 (-13.86%)</td>
+    <td class="tg-8d8j">5.84 <br>(-13.86%)</td>
     <td class="tg-8d8j">5.38</td>
     <td class="tg-8d8j">5.36</td>
-    <td class="tg-8d8j">4.80 (-10.78%)</td>
+    <td class="tg-8d8j">4.80 <br>(-10.78%)</td>
     <td class="tg-8d8j">4.98</td>
     <td class="tg-8d8j">4.65</td>
-    <td class="tg-8d8j">4.42 (-11.24%)</td>
+    <td class="tg-8d8j">4.42 <br>(-11.24%)</td>
     <td class="tg-8d8j">6.33</td>
     <td class="tg-8d8j">5.84</td>
-    <td class="tg-8d8j">5.04 (-20.38%)</td>
+    <td class="tg-8d8j">5.04 <br>(-20.38%)</td>
     <td class="tg-8d8j">7.11</td>
     <td class="tg-8d8j">7.15</td>
-    <td class="tg-8d8j">5.08 (-28.55%)</td>
+    <td class="tg-8d8j">5.08 <br>(-28.55%)</td>
   </tr>
   <tr>
     <td class="tg-bobw">DS</td>
     <td class="tg-8d8j">3.7</td>
     <td class="tg-8d8j">3.46</td>
-    <td class="tg-8d8j">2.76 (-25.41%)</td>
+    <td class="tg-8d8j">2.76 <br>(-25.41%)</td>
     <td class="tg-8d8j">2.23</td>
     <td class="tg-8d8j">1.86</td>
-    <td class="tg-8d8j">2.05 (-8.07%)</td>
+    <td class="tg-8d8j">2.05 <br>(-8.07%)</td>
     <td class="tg-8d8j">0.12</td>
     <td class="tg-8d8j">0.27</td>
-    <td class="tg-8d8j">0.35 (191.67%)</td>
+    <td class="tg-8d8j">0.35 <br>(191.67%)</td>
     <td class="tg-8d8j">1.71</td>
     <td class="tg-8d8j">1.77</td>
-    <td class="tg-8d8j">1.10 (-35.67%)</td>
+    <td class="tg-8d8j">1.10 <br>(-35.67%)</td>
     <td class="tg-8d8j">2.94</td>
     <td class="tg-8d8j">2.83</td>
-    <td class="tg-8d8j">2.23 (-24.15%)</td>
+    <td class="tg-8d8j">2.23 <br>(-24.15%)</td>
   </tr>
 </tbody>
 </table>
