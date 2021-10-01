@@ -22,7 +22,7 @@ The <strong>VoxCeleb1-FH</strong> (Fairness-Hard) test dataset controls more str
 .tg .tg-0pky{border-color:inherit;text-align:center;vertical-align:top}
 </style> -->
 
-<table class="tg" style="width: 100%">
+<table class="tg" style="width: 100%; text-align:center;" >
 <thead>
   <tr>
     <th class="tg-fymr">Gender   Trials</th>
@@ -112,7 +112,7 @@ The supportive table for Figure 2 in the paper.
 .tg .tg-8d8j{text-align:center;vertical-align:bottom}
 </style> -->
 
-<table class="tg">
+<table class="tg" style="width: 100%; text-align:center;" >
 <thead>
   <tr>
     <th class="tg-8d8j"></th>
@@ -231,7 +231,7 @@ The supportive table for Figure 4 in the paper.
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style> -->
 
-<table class="tg">
+<table class="tg" style="width: 100%; text-align:center;" >
 <thead>
   <tr>
     <th class="tg-wa1i"></th>
