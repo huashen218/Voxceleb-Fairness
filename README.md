@@ -198,7 +198,7 @@ The supportive table for Figure 2 in the paper.
   </tr>
   <tr>
     <td class="tg-bobw"><strong>DS</td>
-    <td class="tg-8d8j">3.7</td>
+    <td class="tg-8d8j">3.70</td>
     <td class="tg-8d8j">3.46</td>
     <td class="tg-8d8j">2.76 <br>(-25.41%)</td>
     <td class="tg-8d8j">2.23</td>
