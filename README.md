@@ -1,6 +1,6 @@
 # Voxceleb-Fairness
 
-This is the Github repository to support the paper <a href="">"Improving Fairness in Speaker Verification Models Via Embedding Adaptation and Score Fusion"</a>.
+This is the Github repository to support the paper <a href="">"Improving fairness in speaker verification via Group-adapted Fusion Network"</a>.
 
 The repo includes the Voxceleb-Fairness datasets and key experimental results.
 
