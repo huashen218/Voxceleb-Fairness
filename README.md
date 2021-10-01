@@ -10,7 +10,7 @@ The <strong>VoxCeleb2-GRC</strong>(Gender Ratio Controlled) training dataset has
 
 The <strong>VoxCeleb1-F</strong>(Fairness) test dataset controls for the presence of positive and negative trials with same or different genders.
 
-The <strong>VoxCeleb1-F</strong> (Fairness-Hard) test dataset controls more strictly, in which it only contains the same gender positive and negative trails.
+The <strong>VoxCeleb1-FH</strong> (Fairness-Hard) test dataset controls more strictly, in which it only contains the same gender positive and negative trails.
 
 <!-- 
 <style type="text/css">
