@@ -12,7 +12,7 @@ The <strong>VoxCeleb1-F</strong>(Fairness) test dataset controls for the presenc
 
 The <strong>VoxCeleb1-F</strong> (Fairness-Hard) test dataset controls more strictly, in which it only contains the same gender positive and negative trails.
 
-
+<!-- 
 <style type="text/css">
 .tg {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -20,7 +20,7 @@ The <strong>VoxCeleb1-F</strong> (Fairness-Hard) test dataset controls more stri
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:center;vertical-align:top}
-</style>
+</style> -->
 
 <table class="tg" style="width: 100%">
 <thead>
